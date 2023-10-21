@@ -33,3 +33,6 @@ class Solver {
     }
 
 }
+
+// Exporting the class
+module.exports = Solver;
