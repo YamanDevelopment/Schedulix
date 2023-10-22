@@ -1,0 +1,364 @@
+{
+    "courses": [
+        {
+            "courseTitle": "Programming I",
+            "subject": "COP",
+            "subjectDescription": "Computer Science",
+            "courseNumber": "2200",
+            "courseID": "COP2200",
+            "creditHours": 3,
+            "courseSections": [
+                {
+                    "CRN": "000001",
+                    "meetingTimes": [
+                        {
+                            "day": "Monday",
+                            "startTime": "9:30",
+                            "endTime": "10:20"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "startTime": "9:30",
+                            "endTime": "10:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000002",
+                    "meetingTimes": [
+                        {
+                            "day": "Monday",
+                            "startTime": "10:30",
+                            "endTime": "11:20"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "startTime": "10:30",
+                            "endTime": "11:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000003",
+                    "meetingTimes": [
+                        {
+                            "day": "Friday",
+                            "startTime": "9:30",
+                            "endTime": "10:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "courseTitle": "Programming II",
+            "subject": "COP",
+            "subjectDescription": "Computer Science",
+            "courseNumber": "3330",
+            "courseID": "COP3330",
+            "creditHours": 3,
+            "courseSections": [
+                {
+                    "CRN": "000004",
+                    "meetingTimes": [
+                        {
+                            "day": "Tuesday",
+                            "startTime": "9:30",
+                            "endTime": "10:20"
+                        },
+                        {
+                            "day": "Thursday",
+                            "startTime": "9:30",
+                            "endTime": "10:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000005",
+                    "meetingTimes": [
+                        {
+                            "day": "Tuesday",
+                            "startTime": "10:30",
+                            "endTime": "11:20"
+                        },
+                        {
+                            "day": "Thursday",
+                            "startTime": "10:30",
+                            "endTime": "11:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "courseTitle": "Data Structures",
+            "subject": "COP",
+            "subjectDescription": "Computer Science",
+            "courseNumber": "3530",
+            "courseID": "COP3530",
+            "creditHours": 3,
+            "courseSections": [
+                {
+                    "CRN": "000006",
+                    "meetingTimes": [
+                        {
+                            "day": "Monday",
+                            "startTime": "12:30",
+                            "endTime": "1:20"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "startTime": "12:30",
+                            "endTime": "1:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000007",
+                    "meetingTimes": [
+                        {
+                            "day": "Tuesday",
+                            "startTime": "12:30",
+                            "endTime": "1:20"
+                        },
+                        {
+                            "day": "Thursday",
+                            "startTime": "12:30",
+                            "endTime": "1:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000008",
+                    "meetingTimes": [
+                        {
+                            "day": "Friday",
+                            "startTime": "12:30",
+                            "endTime": "1:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "courseTitle": "Operating Systems",
+            "subject": "COP",
+            "subjectDescription": "Computer Science",
+            "courseNumber": "4610",
+            "courseID": "COP4610",
+            "creditHours": 3,
+            "courseSections": [
+                {
+                    "CRN": "000009",
+                    "meetingTimes": [
+                        {
+                            "day": "Monday",
+                            "startTime": "2:30",
+                            "endTime": "3:20"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "startTime": "2:30",
+                            "endTime": "3:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000010",
+                    "meetingTimes": [
+                        {
+                            "day": "Tuesday",
+                            "startTime": "2:30",
+                            "endTime": "3:20"
+                        },
+                        {
+                            "day": "Thursday",
+                            "startTime": "2:30",
+                            "endTime": "3:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "courseTitle": "Computer Networks",
+            "subject": "COT",
+            "subjectDescription": "Computer Science",
+            "courseNumber": "4501",
+            "courseID": "COT4501",
+            "creditHours": 3,
+            "courseSections": [
+                {
+                    "CRN": "000011",
+                    "meetingTimes": [
+                        {
+                            "day": "Monday",
+                            "startTime": "4:30",
+                            "endTime": "5:20"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "startTime": "4:30",
+                            "endTime": "5:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000012",
+                    "meetingTimes": [
+                        {
+                            "day": "Tuesday",
+                            "startTime": "4:30",
+                            "endTime": "5:20"
+                        },
+                        {
+                            "day": "Thursday",
+                            "startTime": "4:30",
+                            "endTime": "5:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000013",
+                    "meetingTimes": [
+                        {
+                            "day": "Friday",
+                            "startTime": "4:30",
+                            "endTime": "5:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "courseTitle": "Database Systems",
+            "subject": "COT",
+            "subjectDescription": "Computer Science",
+            "courseNumber": "3100",
+            "courseID": "COT3100",
+            "creditHours": 3,
+            "courseSections": [
+                {
+                    "CRN": "000014",
+                    "meetingTimes": [
+                        {
+                            "day": "Monday",
+                            "startTime": "6:30",
+                            "endTime": "7:20"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "startTime": "6:30",
+                            "endTime": "7:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000015",
+                    "meetingTimes": [
+                        {
+                            "day": "Tuesday",
+                            "startTime": "6:30",
+                            "endTime": "7:20"
+                        },
+                        {
+                            "day": "Thursday",
+                            "startTime": "6:30",
+                            "endTime": "7:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "courseTitle": "Software Engineering",
+            "subject": "CEN",
+            "subjectDescription": "Computer Science",
+            "courseNumber": "4010",
+            "courseID": "CEN4010",
+            "creditHours": 3,
+            "courseSections": [
+                {
+                    "CRN": "000016",
+                    "meetingTimes": [
+                        {
+                            "day": "Monday",
+                            "startTime": "8:30",
+                            "endTime": "9:20"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "startTime": "8:30",
+                            "endTime": "9:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000017",
+                    "meetingTimes": [
+                        {
+                            "day": "Tuesday",
+                            "startTime": "8:30",
+                            "endTime": "9:20"
+                        },
+                        {
+                            "day": "Thursday",
+                            "startTime": "8:30",
+                            "endTime": "9:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000018",
+                    "meetingTimes": [
+                        {
+                            "day": "Friday",
+                            "startTime": "8:30",
+                            "endTime": "9:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "courseTitle": "Computer Architecture",
+            "subject": "CDA",
+            "subjectDescription": "Computer Science",
+            "courseNumber": "4101",
+            "courseID": "CDA4101",
+            "creditHours": 3,
+            "courseSections": [
+                {
+                    "CRN": "000019",
+                    "meetingTimes": [
+                        {
+                            "day": "Monday",
+                            "startTime": "11:30",
+                            "endTime": "12:20"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "startTime": "11:30",
+                            "endTime": "12:20"
+                        }
+                    ]
+                },
+                {
+                    "CRN": "000020",
+                    "meetingTimes": [
+                        {
+                            "day": "Tuesday",
+                            "startTime": "11:30",
+                            "endTime": "12:20"
+                        },
+                        {
+                            "day": "Thursday",
+                            "startTime": "11:30",
+                            "endTime": "12:20"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

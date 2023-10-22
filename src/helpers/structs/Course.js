@@ -15,8 +15,8 @@ class Course {
         this.sections = [];
 
         // Add the sections to the sections array
-        for (let i = 0; i < courseJSON.sections.length; i++) {
-            this.sections.push(new Section(courseJSON.sections[i].CRN, courseJSON.sections[i].meetingTimes));
+        for (let i = 0; i < courseJSON.courseSections.length; i++) {
+            this.sections.push(new Section(courseJSON.courseSections[i].CRN, courseJSON.courseSections[i].meetingTimes));
         }
     }
 
@@ -106,3 +106,5 @@ class Course {
         this.sections.push(section);
     }
 }
+
+module.exports = Course;

@@ -3,6 +3,7 @@ class Section {
     constructor(CRN, meetingTimes) {
         this.CRN = CRN;
         this.meetingTimes = meetingTimes;
+        // console.log(this.meetingTimes)
     }
 
     // This function will return the section's CRN
@@ -34,26 +35,26 @@ class Section {
             return false;
         }
 
-        // Check if the sections have any overlapping times
-        // Parse both sets of times into integers
-        let sectionStartTime = parseInt(this.meetingTimes.startTime.replace(':', ''));
-        let sectionEndTime = parseInt(this.meetingTimes.endTime.replace(':', ''));
-        let otherSectionStartTime = parseInt(section.getMeetingTimes().startTime.replace(':', ''));
-        let otherSectionEndTime = parseInt(section.getMeetingTimes().endTime.replace(':', ''));
+        for (let i = 0; i < this.meetingTimes.length; i++) {
+            for (let j = 0; j < section.getMeetingTimes().length; j++) {
+                // Parse both sets of times into integers
+                let thisStartTime = parseInt(this.meetingTimes[i].startTime.replace(':', ''));
+                let thisEndTime = parseInt(this.meetingTimes[i].endTime.replace(':', ''));
+                let otherStartTime = parseInt(section.getMeetingTimes()[j].startTime.replace(':', ''));
+                let otherEndTime = parseInt(section.getMeetingTimes()[j].endTime.replace(':', ''));
 
-        // Check if the times overlap
-        // Doesn't count if the excluded time ends at the same time the section starts
-        // or the excluded time starts at the same time the section ends
-        if (sectionStartTime >= otherSectionStartTime && sectionStartTime < otherSectionEndTime && sectionEndTime != otherSectionStartTime) {
-            return true;
-        } else if (sectionEndTime > otherSectionStartTime && sectionEndTime <= otherSectionEndTime && sectionStartTime != otherSectionEndTime) {
-            return true;
-        } else if (sectionStartTime < otherSectionStartTime && sectionEndTime > otherSectionEndTime) {
-            return true;
+                // Check if the times overlap
+                // Doesn't count if the excluded time ends at the same time the section starts
+                // or the excluded time starts at the same time the section ends
+                if (thisStartTime >= otherStartTime && thisStartTime < otherEndTime && thisEndTime != otherStartTime) {
+                    return true;
+                } else if (thisEndTime > otherStartTime && thisEndTime <= otherEndTime && thisStartTime != otherEndTime) {
+                    return true;
+                } else if (thisStartTime < otherStartTime && thisEndTime > otherEndTime) {
+                    return true;
+                }
+            }
         }
-
-        // Return false if the sections don't conflict
-        return false;
     }
 }
 
