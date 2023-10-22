@@ -127,25 +127,25 @@ This format allows for easy organization and retrieval of course information, an
 
 # Expected Format of userPreferences
 ```json
-    {
-        courses: [
-            "COP 2200",
-            "MAC 2312",
-            "ENC 1102",
-        ],
-        excludedTimes: [
-            {
-                "day": "Monday",
-                fullDay: false,
-                "startTime": "9:30",
-                "endTime": "10:20"
-            },
-            {
-                "day": "Wednesday",
-                "fullDay": true
-            }
-        ]
-    }
+{
+    courses: [
+        "COP 2200",
+        "MAC 2312",
+        "ENC 1102",
+    ],
+    excludedTimes: [
+        {
+            "day": "Monday",
+            fullDay: false,
+            "startTime": "9:30",
+            "endTime": "10:20"
+        },
+        {
+            "day": "Wednesday",
+            "fullDay": true
+        }
+    ]
+}
 ```
 
 The `userPreferences` variable is a JSON object that contains information about a user's course preferences and excluded times. The object has two properties:
