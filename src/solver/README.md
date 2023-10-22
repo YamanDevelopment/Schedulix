@@ -129,9 +129,9 @@ This format allows for easy organization and retrieval of course information, an
 ```json
 {
     courses: [
-        "COP 2200",
-        "MAC 2312",
-        "ENC 1102",
+        "COP2200",
+        "MAC2312",
+        "ENC1102",
     ],
     excludedTimes: [
         {

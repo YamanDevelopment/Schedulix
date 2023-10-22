@@ -13,12 +13,12 @@
                     "meetingTimes": [
                         {
                             "day": "Monday",
-                            "startTime": "9:30",
+                            "startTime": "09:30",
                             "endTime": "10:20"
                         },
                         {
                             "day": "Wednesday",
-                            "startTime": "9:30",
+                            "startTime": "09:30",
                             "endTime": "10:20"
                         }
                     ]
@@ -43,7 +43,7 @@
                     "meetingTimes": [
                         {
                             "day": "Friday",
-                            "startTime": "9:30",
+                            "startTime": "09:30",
                             "endTime": "10:20"
                         }
                     ]
@@ -63,12 +63,12 @@
                     "meetingTimes": [
                         {
                             "day": "Tuesday",
-                            "startTime": "9:30",
+                            "startTime": "09:30",
                             "endTime": "10:20"
                         },
                         {
                             "day": "Thursday",
-                            "startTime": "9:30",
+                            "startTime": "09:30",
                             "endTime": "10:20"
                         }
                     ]
@@ -104,12 +104,12 @@
                         {
                             "day": "Monday",
                             "startTime": "12:30",
-                            "endTime": "1:20"
+                            "endTime": "13:20"
                         },
                         {
                             "day": "Wednesday",
                             "startTime": "12:30",
-                            "endTime": "1:20"
+                            "endTime": "13:20"
                         }
                     ]
                 },
@@ -119,12 +119,12 @@
                         {
                             "day": "Tuesday",
                             "startTime": "12:30",
-                            "endTime": "1:20"
+                            "endTime": "13:20"
                         },
                         {
                             "day": "Thursday",
                             "startTime": "12:30",
-                            "endTime": "1:20"
+                            "endTime": "13:20"
                         }
                     ]
                 },
@@ -134,7 +134,7 @@
                         {
                             "day": "Friday",
                             "startTime": "12:30",
-                            "endTime": "1:20"
+                            "endTime": "13:20"
                         }
                     ]
                 }
@@ -153,13 +153,13 @@
                     "meetingTimes": [
                         {
                             "day": "Monday",
-                            "startTime": "2:30",
-                            "endTime": "3:20"
+                            "startTime": "14:30",
+                            "endTime": "15:20"
                         },
                         {
                             "day": "Wednesday",
-                            "startTime": "2:30",
-                            "endTime": "3:20"
+                            "startTime": "14:30",
+                            "endTime": "15:20"
                         }
                     ]
                 },
@@ -168,13 +168,13 @@
                     "meetingTimes": [
                         {
                             "day": "Tuesday",
-                            "startTime": "2:30",
-                            "endTime": "3:20"
+                            "startTime": "14:30",
+                            "endTime": "15:20"
                         },
                         {
                             "day": "Thursday",
-                            "startTime": "2:30",
-                            "endTime": "3:20"
+                            "startTime": "14:30",
+                            "endTime": "15:20"
                         }
                     ]
                 }
@@ -193,13 +193,13 @@
                     "meetingTimes": [
                         {
                             "day": "Monday",
-                            "startTime": "4:30",
-                            "endTime": "5:20"
+                            "startTime": "16:30",
+                            "endTime": "17:20"
                         },
                         {
                             "day": "Wednesday",
-                            "startTime": "4:30",
-                            "endTime": "5:20"
+                            "startTime": "16:30",
+                            "endTime": "17:20"
                         }
                     ]
                 },
@@ -208,13 +208,13 @@
                     "meetingTimes": [
                         {
                             "day": "Tuesday",
-                            "startTime": "4:30",
-                            "endTime": "5:20"
+                            "startTime": "16:30",
+                            "endTime": "17:20"
                         },
                         {
                             "day": "Thursday",
-                            "startTime": "4:30",
-                            "endTime": "5:20"
+                            "startTime": "16:30",
+                            "endTime": "17:20"
                         }
                     ]
                 },
@@ -223,8 +223,8 @@
                     "meetingTimes": [
                         {
                             "day": "Friday",
-                            "startTime": "4:30",
-                            "endTime": "5:20"
+                            "startTime": "16:30",
+                            "endTime": "17:20"
                         }
                     ]
                 }
@@ -243,13 +243,13 @@
                     "meetingTimes": [
                         {
                             "day": "Monday",
-                            "startTime": "6:30",
-                            "endTime": "7:20"
+                            "startTime": "18:30",
+                            "endTime": "19:20"
                         },
                         {
                             "day": "Wednesday",
-                            "startTime": "6:30",
-                            "endTime": "7:20"
+                            "startTime": "18:30",
+                            "endTime": "19:20"
                         }
                     ]
                 },
@@ -258,13 +258,13 @@
                     "meetingTimes": [
                         {
                             "day": "Tuesday",
-                            "startTime": "6:30",
-                            "endTime": "7:20"
+                            "startTime": "18:30",
+                            "endTime": "19:20"
                         },
                         {
                             "day": "Thursday",
-                            "startTime": "6:30",
-                            "endTime": "7:20"
+                            "startTime": "18:30",
+                            "endTime": "19:20"
                         }
                     ]
                 }
@@ -283,13 +283,13 @@
                     "meetingTimes": [
                         {
                             "day": "Monday",
-                            "startTime": "8:30",
-                            "endTime": "9:20"
+                            "startTime": "08:30",
+                            "endTime": "09:20"
                         },
                         {
                             "day": "Wednesday",
-                            "startTime": "8:30",
-                            "endTime": "9:20"
+                            "startTime": "08:30",
+                            "endTime": "09:20"
                         }
                     ]
                 },
@@ -298,13 +298,13 @@
                     "meetingTimes": [
                         {
                             "day": "Tuesday",
-                            "startTime": "8:30",
-                            "endTime": "9:20"
+                            "startTime": "08:30",
+                            "endTime": "09:20"
                         },
                         {
                             "day": "Thursday",
-                            "startTime": "8:30",
-                            "endTime": "9:20"
+                            "startTime": "08:30",
+                            "endTime": "09:20"
                         }
                     ]
                 },
@@ -313,8 +313,8 @@
                     "meetingTimes": [
                         {
                             "day": "Friday",
-                            "startTime": "8:30",
-                            "endTime": "9:20"
+                            "startTime": "08:30",
+                            "endTime": "09:20"
                         }
                     ]
                 }

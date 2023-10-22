@@ -91,7 +91,7 @@ class Solver {
             // console.log(`DEBUG: looping through courses (${i})`)
             allSections = allSections.concat(allCourses[i].sections);
         }
-        console.log(allSections)
+        // console.log(allSections)
 
         // Exclude sections that conflict with the user's excluded times
         let possibleSections = [];
@@ -113,9 +113,17 @@ class Solver {
                     }
 
                     // Parse the times into integers
-                    startTime = parseInt(startTime.replace(':', ''));
-                    endTime = parseInt(endTime.replace(':', ''));
+                    // startTime = parseInt(startTime.replace(':', ''));
+                    // endTime = parseInt(endTime.replace(':', ''));
 
+                    // console.log(`DEBUG: ${allSections[i].getCRN()} ${startTime} ${endTime}`);
+
+                    // Check if the section's meeting time overlaps with the excluded time
+                    if (allSections[i].conflictsWithTime(userPreferences.excludedTimes[j].day, startTime, endTime)) {
+                        // console.log(`DEBUG: Section ${allSections[i].getCRN()} conflicts with excluded time ${userPreferences.excludedTimes[j].day} ${startTime} ${endTime}`);
+                        conflicting = true;
+                        break;
+                    }
                 }
             }
 
@@ -123,61 +131,148 @@ class Solver {
             if (!conflicting) possibleSections.push(allSections[i]);
         }
 
-        // =========> Step 4: Generate all possible schedules
+        // console.log(possibleSections)
+        // Generate all possible schedules
         let validSchedules = [];
         let possibleSchedules = [];
 
-        // Define a recursive function that takes in a list of possible sections and a list of selected sections
-        function backtrack(posSecs, selSecs) {
+        // function backtrack(posSecs, selSecs, selectedCourses, possibleSchedules, numCourses) {
+        //     // If the list of possible sections is empty, add the list of selected sections to the list of possible schedules and return
+        //     if (posSecs.length === 0) {
+        //         // Check if the selected sections include one section from each course
+        //         let courseIDs = selectedCourses.map(section => section.getCourseID());
+        //         let uniqueCourseIDs = [...new Set(courseIDs)];
+        //         if (uniqueCourseIDs.length === numCourses) {
+        //             possibleSchedules.push(selSecs);
+        //         }
+        //         return;
+        //     }
+        
+        //     // For each section in the possible sections array
+        //     for (let i = 0; i < posSecs.length; i++) {
+        //         let section = posSecs[i];
+        
+        //         // Check if the section conflicts with any of the selected sections
+        //         let conflicting = false;
+        //         for (let j = 0; j < selSecs.length; j++) {
+        //             if (selSecs.length === 0) console.log("SELECTED SECS IS EMPTY");
+        //             if (section.conflictsWithSection(selSecs[j])) {
+        //                 conflicting = true;
+        //                 break;
+        //             }
+        //         }
+        
+        //         // If the section does not conflict with any of the selected sections, add it to the list of selected sections and call the backtrack function recursively
+        //         if (!conflicting) {
+        //             let newPossibleSections = posSecs.slice();
+        //             newPossibleSections.splice(i, 1);
+        //             let newSelectedSections = selSecs.slice();
+        //             newSelectedSections.push(section);
+        //             let newSelectedCourses = selectedCourses.slice();
+        //             newSelectedCourses.push(section);
+        //             backtrack(newPossibleSections, newSelectedSections, newSelectedCourses, possibleSchedules, numCourses);
+        //         }
+        //     }
+        // }
+
+        function backtrack(posSecs, selSecs, selectedCourses, possibleSchedules, numCourses) {
             // If the list of possible sections is empty, add the list of selected sections to the list of possible schedules and return
             if (posSecs.length === 0) {
-                possibleSchedules.push(selSecs);
+                // Check if the selected sections include one section from each course
+                let courseIDs = selectedCourses.map(section => section.getCourseID());
+                let uniqueCourseIDs = [...new Set(courseIDs)];
+                if (uniqueCourseIDs.length === numCourses) {
+                    possibleSchedules.push(selSecs);
+                }
                 return;
             }
-
-            
-
+        
             // For each section in the possible sections array
             for (let i = 0; i < posSecs.length; i++) {
                 let section = posSecs[i];
-                let newPossibleSections = posSecs.slice();
-                newPossibleSections.splice(i, 1);
-                let newSelectedSections = selSecs.slice();
-                newSelectedSections.push(section);
-                backtrack(newPossibleSections, newSelectedSections);
+        
+                // Check if the section conflicts with any of the selected sections
+                let conflicting = false;
+                for (let j = 0; j < selSecs.length; j++) {
+                    if (section.conflictsWithSection(selSecs[j])) {
+                        conflicting = true;
+                        break;
+                    }
+                }
+        
+                // If the section does not conflict with any of the selected sections, add it to the list of selected sections and call the backtrack function recursively
+                if (!conflicting) {
+                    let newPossibleSections, newSelectedSections, newSelectedCourses;
+                    newPossibleSections = posSecs.slice();
+                    newPossibleSections.splice(i, 1); // Remove the section from the possible sections array
+                    // Remove any other sections for the same course from the possible sections array
+                    let courseID = section.getCourseID();
+                    for (let j = 0; j < newPossibleSections.length; j++) {
+                        if (newPossibleSections[j].getCourseID() === courseID) {
+                            newPossibleSections.splice(j, 1);
+                            j--;
+                        }
+                    }
+                    // console.log("NEW POSSIBLE SECTIONS")
+                    // console.log(newPossibleSections)
+
+                    newSelectedSections = selSecs.slice();
+                    newSelectedSections.push(section); // Add the section to the selected sections array
+                    // console.log("NEW SELECTED SECTIONS")
+                    // console.log(newSelectedSections)
+
+                    newSelectedCourses = selectedCourses.slice();
+                    let courseIndex = newSelectedCourses.findIndex(course => course.courseID === section.getCourseID());
+                    if (courseIndex === -1) {
+                        newSelectedCourses.push(section);
+                    }
+                    // console.log("NEW SELECTED COURSES")
+                    // console.log(newSelectedCourses)
+
+                    backtrack(newPossibleSections, newSelectedSections, newSelectedCourses, possibleSchedules, numCourses);
+                }
             }
         }
 
-        // Call the recursive function with the list of possible sections and an empty list of selected sections
-        backtrack(possibleSections, []);
+        // Call the backtrack function
+        backtrack(possibleSections, [], [], possibleSchedules, userPreferences.courses.length);
+
 
         // Remove duplicate schedules from the possibleSchedules array
-        let uniqueSchedules = [];
+        // using the isSame function from the Schedule class
+        // At this part, the schedule is only an array of sections
+        // so convert it to a Schedule object before comparing
         for (let i = 0; i < possibleSchedules.length; i++) {
-            let isDuplicate = false;
-            for (let j = i + 1; j < possibleSchedules.length; j++) {
-                if (possibleSchedules[i].length === possibleSchedules[j].length && possibleSchedules[i].every((section, index) => section === possibleSchedules[j][index])) {
-                    isDuplicate = true;
+            let schedule = new Schedule();
+            for (let j = 0; j < possibleSchedules[i].length; j++) {
+                schedule.addSection(possibleSchedules[i][j]);
+            }
+            // console.log(schedule)
+            let duplicate = false;
+            for (let j = 0; j < validSchedules.length; j++) {
+                // Convert current valid schedule to a Schedule object
+                let validSchedule = new Schedule();
+                for (let k = 0; k < validSchedules[j].length; k++) {
+                    validSchedule.addSection(validSchedules[j][k]);
+                }
+                // console.log(validSchedule)
+                if (schedule.isSame(validSchedule)) {
+                    // console.log("DUPLICATE FOUND")
+                    duplicate = true;
                     break;
                 }
             }
-            if (!isDuplicate) {
-                uniqueSchedules.push(possibleSchedules[i]);
-            }
+            if (!duplicate) validSchedules.push(schedule.toJSON());
+        
         }
 
-        // Add the unique schedules to the validSchedules array
-        for (let i = 0; i < uniqueSchedules.length; i++) {
-            const completedSchedule = new Schedule();
-            for (let j = 0; j < uniqueSchedules[i].length; j++) {
-                completedSchedule.addSection(uniqueSchedules[i][j]);
-            }
-            validSchedules.push(completedSchedule);
-        }
-
-        // ==========> Step 6: Return the list of valid schedules
-        console.log(validSchedules[1])
-        return false;
+        // Return the list of valid schedules
+        // let finalSchedules = [];
+        // for (let i = 0; i < validSchedules.length; i++) {
+        //     // console.log(typeof validSchedules[i])
+        //     finalSchedules.push(validSchedules[i].toJSON());
+        // }
+        return validSchedules;
     }
 }
 

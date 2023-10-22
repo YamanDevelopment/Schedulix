@@ -16,7 +16,7 @@ class Course {
 
         // Add the sections to the sections array
         for (let i = 0; i < courseJSON.courseSections.length; i++) {
-            this.sections.push(new Section(courseJSON.courseSections[i].CRN, courseJSON.courseSections[i].meetingTimes));
+            this.sections.push(new Section(courseJSON.courseID, courseJSON.courseSections[i].CRN, courseJSON.courseSections[i].meetingTimes));
         }
     }
 

@@ -1,9 +1,15 @@
 class Section {
-    // Params: CRN, meetingTimes (day, startTime, endTime)
-    constructor(CRN, meetingTimes) {
+    // Params: courseID, CRN, meetingTimes (day, startTime, endTime)
+    constructor(courseID, CRN, meetingTimes) {
+        this.courseID = courseID;
         this.CRN = CRN;
         this.meetingTimes = meetingTimes;
         // console.log(this.meetingTimes)
+    }
+
+    // This function will return the section's course ID
+    getCourseID() {
+        return this.courseID;
     }
 
     // This function will return the section's CRN
@@ -14,6 +20,11 @@ class Section {
     // This function will return the section's meeting times
     getMeetingTimes() {
         return this.meetingTimes;
+    }
+
+    // This function will set the section's course ID
+    setCourseID(courseID) {
+        this.courseID = courseID;
     }
 
     // This function will set the section's CRN
@@ -32,6 +43,7 @@ class Section {
     conflictsWithSection(section) {
         // Check if the sections are the same
         if (this.CRN == section.getCRN()) {
+            console.log(`DEBUG: ${this.CRN} == ${section.getCRN()}`);
             return false;
         }
 
@@ -72,6 +84,8 @@ class Section {
                     } else if (thisStartTime < sectionStartTime && thisEndTime > sectionEndTime) {
                         return true;
                     }
+
+                    // console.log(`DEBUG: Section ${this.CRN} does not conflict with section ${section.getCRN()}`);
                 }
             }
         }
@@ -132,6 +146,15 @@ class Section {
         }
 
         return false;
+    }
+
+    // This function will return the section's JSON
+    toJSON() {
+        return {
+            courseID: this.courseID,
+            CRN: this.CRN,
+            meetingTimes: this.meetingTimes
+        }
     }
 
 }
