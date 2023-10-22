@@ -6,13 +6,24 @@ const solver = new Solver('./data/data.json');
 setTimeout(() => {
     // console.log(solver.data.length);
     const solved = solver.solve(
-    {
-        "courses": [
-            "COP4610",
-            "COT4501"
-        ],
-        "excludedTimes": []
-    }
+        {
+            "courses": [
+                "COP2200",
+                "COT4501"
+            ],
+            "excludedTimes": [
+                {
+                    "day": "Monday",
+                    "fullDay": false,
+                    "startTime": "9:30",
+                    "endTime": "11:20"
+                },
+                {
+                    "day": "Wednesday",
+                    "fullDay": true
+                }
+            ]
+        }
     )
     
     console.log(`Solved: ${solved}`);

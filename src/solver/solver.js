@@ -69,9 +69,11 @@ class Solver {
     // Params: userPreferences (JSON)
     // Returns: Array of schedules (JSON)
     solve(userPreferences) {
-        // =========> Steps 1-2
+        // =========> Steps 1-3
 
         // Look for courses that match the user's preferences
+        // and make sure that the sections don't conflict with
+        // the user's excluded times
         let allCourses = [];
         for (let i = 0; i < userPreferences.courses.length; i++) {
             for (let j = 0; j < this.data.length; j++) {
@@ -83,127 +85,111 @@ class Solver {
             }
         }
 
-        // =========> Steps 3
-
-        // Match the student's desired courses with the possible sections
-        // Currently only possible to exclude times
-        let possibleSections = [];
+        // Concatenate all sections from all courses into a single array
+        let allSections = [];
         for (let i = 0; i < allCourses.length; i++) {
-            for (let j = 0; j < allCourses[i].getSections().length; j++) {
-                // Check if the section doesn't have any excluded times (including overlapping times)
-                let hasExcludedTimes = false;
-                if (userPreferences.excludedTimes.length > 0) {
-                    for (let k = 0; k < userPreferences.excludedTimes.length; k++) {
-                        // Parse both sets of times into integers
-                        let sectionStartTime = parseInt(allCourses[i].getSections()[j].getMeetingTimes().startTime.replace(':', ''));
-                        let sectionEndTime = parseInt(allCourses[i].getSections()[j].getMeetingTimes().endTime.replace(':', ''));
-                        let excludedStartTime = parseInt(userPreferences.excludedTimes[k].startTime.replace(':', ''));
-                        let excludedEndTime = parseInt(userPreferences.excludedTimes[k].endTime.replace(':', ''));
+            // console.log(`DEBUG: looping through courses (${i})`)
+            allSections = allSections.concat(allCourses[i].sections);
+        }
+        console.log(allSections)
 
-                        // Check if the times overlap
-                        // Doesn't count if the excluded time ends at the same time the section starts
-                        // or the excluded time starts at the same time the section ends
-                        if (sectionStartTime >= excludedStartTime && sectionStartTime < excludedEndTime && sectionEndTime != excludedStartTime) {
-                            hasExcludedTimes = true;
-                        } else if (sectionEndTime > excludedStartTime && sectionEndTime <= excludedEndTime && sectionStartTime != excludedEndTime) {
-                            hasExcludedTimes = true;
-                        } else if (sectionStartTime < excludedStartTime && sectionEndTime > excludedEndTime) {
-                            hasExcludedTimes = true;
-                        }
+        // Exclude sections that conflict with the user's excluded times
+        let possibleSections = [];
+        for (let i = 0; i < allSections.length; i++) {
+            let conflicting = false;
+            for (let j = 0; j < userPreferences.excludedTimes.length; j++) {
+                // Check if the section has a meeting time on the day
+                if (allSections[i].hasMeetingTimeOnDay(userPreferences.excludedTimes[j].day)) {
+                    // If fullday is true, then set the start time to 0:00 and the end time to 23:59
+                    let startTime = "00:00";
+                    let endTime = "00:00";
+
+                    if (userPreferences.excludedTimes[j].fullDay) {
+                        startTime = "00:00";
+                        endTime = "23:59";
+                    } else {
+                        startTime = userPreferences.excludedTimes[j].startTime;
+                        endTime = userPreferences.excludedTimes[j].endTime;
                     }
-                }
 
-                // Add the section to the possible sections array
-                if (!hasExcludedTimes) {
-                    possibleSections.push(allCourses[i].getSections()[j]);
+                    // Parse the times into integers
+                    startTime = parseInt(startTime.replace(':', ''));
+                    endTime = parseInt(endTime.replace(':', ''));
+
                 }
             }
+
+            // If the section is not conflicting, then add it to the possible sections array
+            if (!conflicting) possibleSections.push(allSections[i]);
         }
 
-        // =========> Step 4-5
+        // =========> Step 4: Generate all possible schedules
         let validSchedules = [];
         let possibleSchedules = [];
-        function backtrack(possibleSections, selectedSections) {
-            console.log("DEBUG: validSchedules: " + validSchedules)
-            console.log("DEBUG: backtrack called")
-            // If the list of possible sections is empty, add the schedule to the valid schedules array
-            if (possibleSections.length === 0) {
-                console.log("DEBUG: possibleSections is empty")
+
+        // Define a recursive function that takes in a list of possible sections and a list of selected sections
+        function backtrack(posSecs, selSecs) {
+            // If the list of possible sections is empty, add the list of selected sections to the list of valid schedules and return
+            if (posSecs.length === 0) {
                 const completedSchedule = new Schedule();
-                for (let i = 0; i < selectedSections.length; i++) {
-                    completedSchedule.addSection(selectedSections[i]);
+                for (let i = 0; i < selSecs.length; i++) {
+                    completedSchedule.addSection(selSecs[i]);
                 }
+                validSchedules.push(completedSchedule);
+                return;
             }
 
             // For each section in the possible sections array
-            for (let i = 0; i < possibleSections.length; i++) {
-                console.log(`DEBUG: looping through possibleSections (${i}`)
-                let section = possibleSections[i];
+            for (let i = 0; i < posSecs.length; i++) {
+                let section = posSecs[i];
                 let hasExcludedTimes = false;
 
-                // Check if the section conflicts with any of the selected sections
-                for (let j = 0; j < selectedSections.length; j++) {
-                    let selectedSection = selectedSections[j];
-
-                    if (section.conflictsWith(selectedSection)) {
+                // Check if the section conflicts with any of the other sections in the selected sections array
+                for (let j = 0; j < selSecs.length; j++) {
+                    if (section.conflictsWithSection(selSecs[j])) {
                         hasExcludedTimes = true;
                         break;
                     }
                 }
 
-                // Check if the section conflicts with any of the excluded times (including overlapping times)
-                if (!hasExcludedTimes) {
-                    for (let j = 0; j < userPreferences.excludedTimes.length; j++) {
-                        // Parse both sets of times into integers
-                        let sectionStartTime = parseInt(section.getMeetingTimes().startTime.replace(':', ''));
-                        let sectionEndTime = parseInt(section.getMeetingTimes().endTime.replace(':', ''));
-                        let excludedStartTime = parseInt(userPreferences.excludedTimes[j].startTime.replace(':', ''));
-                        let excludedEndTime = parseInt(userPreferences.excludedTimes[j].endTime.replace(':', ''));
-
-                        // Check if the times overlap
-                        // Doesn't count if the excluded time ends at the same time the section starts
-                        // or the excluded time starts at the same time the section ends
-                        if (sectionStartTime >= excludedStartTime && sectionStartTime < excludedEndTime && sectionEndTime != excludedStartTime) {
-                            hasExcludedTimes = true;
-                        } else if (sectionEndTime > excludedStartTime && sectionEndTime <= excludedEndTime && sectionStartTime != excludedEndTime) {
-                            hasExcludedTimes = true;
-                        } else if (sectionStartTime < excludedStartTime && sectionEndTime > excludedEndTime) {
-                            hasExcludedTimes = true;
-                        }
+                // Check if the section conflicts with any of the user's excluded times
+                // using conflictsWithTime() function from Section class
+                for (let j = 0; j < userPreferences.excludedTimes.length; j++) {
+                    let startTime, endTime;
+                    if (userPreferences.excludedTimes[j].fullDay) {
+                        startTime = "00:00";
+                        endTime = "23:59";
+                    } else {
+                        startTime = userPreferences.excludedTimes[j].startTime;
+                        endTime = userPreferences.excludedTimes[j].endTime;
                     }
+
+                    console.log(`Running conflictsWithTime(${userPreferences.excludedTimes[j].day}, ${startTime}, ${endTime})`)
+                    if (section.conflictsWithTime(userPreferences.excludedTimes[j].day, startTime, endTime)) {
+                        console.log(`Section ${section.getCRN()} conflicts with excluded time ${userPreferences.excludedTimes[j].day} ${startTime}-${endTime}`)
+                        hasExcludedTimes = true;
+                        break;
+                    }
+
+                    console.log(`Section ${section.getCRN()} does not conflict with excluded time ${userPreferences.excludedTimes[j].day} ${startTime}-${endTime}`)
                 }
 
                 // Add the section to the selected sections array if it has no conflicts
                 if (!hasExcludedTimes) {
-                    let newPossibleSections = possibleSections.slice();
+                    let newPossibleSections = posSecs.slice();
                     newPossibleSections.splice(i, 1);
-                    let newSelectedSections = selectedSections.slice();
+                    let newSelectedSections = selSecs.slice();
                     newSelectedSections.push(section);
-                    possibleSchedules.push(newSelectedSections);
                     backtrack(newPossibleSections, newSelectedSections);
                 }
             }
         }
 
-        // Define the courses array and populate it with Course objects
-        let courses = [];
-        console.log(this.data.length)
-        for (let i = 0; i < this.data.length; i++) {
-            console.log(`DEBUG: looping through data (${i})`)
-            courses.push(this.data[i]);
-        }
+        // Call the recursive function with the list of possible sections and an empty list of selected sections
+        backtrack(possibleSections, []);
 
-        // Concatenate all sections from all courses into a single array
-        let allSections = [];
-        for (let i = 0; i < courses.length; i++) {
-            console.log(`DEBUG: looping through courses (${i})`)
-            allSections = allSections.concat(courses[i].sections);
-        }
-
-        // Step 5: Call the recursive function with the list of possible sections and an empty list of selected sections
-        backtrack(allSections, []);
-
-        // Step 6: Return the list of valid schedules
+        // ==========> Step 6: Return the list of valid schedules
+        console.log(validSchedules)
         return validSchedules;
     }
 }
