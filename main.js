@@ -67,8 +67,6 @@ setTimeout(() => {
             ]
         }
     );
-
-    // solved = JSON.parse(solved);
     
     
     console.log(`${colors.bold(`Solved for ${colors.blue(solved.length)} schedules`)}`);

@@ -13,30 +13,10 @@ const Schedule = require("../helpers/structs/Schedule.js");
 // information and the user's preferences
 
 class Solver {
-    // Constructor Params: dataJSON (String)
-    // Check src/solver/README.md for more information on the data file
-    // constructor(dataJSON) {
-    //     // Have courses as an array of Course objects
-    //     this.data = [];
-
-    //     // Loading the data file's JSON into the class
-    //     fs.readFile(path.join(__dirname, dataJSON), (err, data) => {
-    //         if (err) throw err;
-    //         const jsonData = JSON.parse(data);
-
-    //         // Add the courses to the courses array
-    //         for (let i = 0; i < jsonData.courses.length; i++) {
-    //             // console.log(jsonData.courses[i])
-    //             this.data.push(new Course(jsonData.courses[i]));
-    //         }
-
-    //         // Code that depends on this.data should be placed here
-    //         console.log(this.data.length);
-    //     });
-    // }
     constructor(dataJSON) {
         // Have courses as an array of Course objects
         this.data = [];
+        this.dataLoaded = false;
 
         // Loading the data file's JSON into the class
         const promise = new Promise((resolve, reject) => {
@@ -56,7 +36,8 @@ class Solver {
 
         // Code that depends on this.data should be placed here
         promise.then((data) => {
-            console.log(data.length);
+            this.dataLoaded = true;
+            // console.log(data.length);
         });
     }
 
@@ -69,6 +50,9 @@ class Solver {
     // Params: userPreferences (JSON)
     // Returns: Array of schedules (JSON)
     solve(userPreferences) {
+        // Wait until this.dataLoaded is true
+        while (!this.dataLoaded) {}
+
         // =========> Steps 1-3
 
         // Look for courses that match the user's preferences
@@ -112,15 +96,8 @@ class Solver {
                         endTime = userPreferences.excludedTimes[j].endTime;
                     }
 
-                    // Parse the times into integers
-                    // startTime = parseInt(startTime.replace(':', ''));
-                    // endTime = parseInt(endTime.replace(':', ''));
-
-                    // console.log(`DEBUG: ${allSections[i].getCRN()} ${startTime} ${endTime}`);
-
                     // Check if the section's meeting time overlaps with the excluded time
                     if (allSections[i].conflictsWithTime(userPreferences.excludedTimes[j].day, startTime, endTime)) {
-                        // console.log(`DEBUG: Section ${allSections[i].getCRN()} conflicts with excluded time ${userPreferences.excludedTimes[j].day} ${startTime} ${endTime}`);
                         conflicting = true;
                         break;
                     }
@@ -131,49 +108,9 @@ class Solver {
             if (!conflicting) possibleSections.push(allSections[i]);
         }
 
-        // console.log(possibleSections)
         // Generate all possible schedules
         let validSchedules = [];
         let possibleSchedules = [];
-
-        // function backtrack(posSecs, selSecs, selectedCourses, possibleSchedules, numCourses) {
-        //     // If the list of possible sections is empty, add the list of selected sections to the list of possible schedules and return
-        //     if (posSecs.length === 0) {
-        //         // Check if the selected sections include one section from each course
-        //         let courseIDs = selectedCourses.map(section => section.getCourseID());
-        //         let uniqueCourseIDs = [...new Set(courseIDs)];
-        //         if (uniqueCourseIDs.length === numCourses) {
-        //             possibleSchedules.push(selSecs);
-        //         }
-        //         return;
-        //     }
-        
-        //     // For each section in the possible sections array
-        //     for (let i = 0; i < posSecs.length; i++) {
-        //         let section = posSecs[i];
-        
-        //         // Check if the section conflicts with any of the selected sections
-        //         let conflicting = false;
-        //         for (let j = 0; j < selSecs.length; j++) {
-        //             if (selSecs.length === 0) console.log("SELECTED SECS IS EMPTY");
-        //             if (section.conflictsWithSection(selSecs[j])) {
-        //                 conflicting = true;
-        //                 break;
-        //             }
-        //         }
-        
-        //         // If the section does not conflict with any of the selected sections, add it to the list of selected sections and call the backtrack function recursively
-        //         if (!conflicting) {
-        //             let newPossibleSections = posSecs.slice();
-        //             newPossibleSections.splice(i, 1);
-        //             let newSelectedSections = selSecs.slice();
-        //             newSelectedSections.push(section);
-        //             let newSelectedCourses = selectedCourses.slice();
-        //             newSelectedCourses.push(section);
-        //             backtrack(newPossibleSections, newSelectedSections, newSelectedCourses, possibleSchedules, numCourses);
-        //         }
-        //     }
-        // }
 
         function backtrack(posSecs, selSecs, selectedCourses, possibleSchedules, numCourses) {
             // If the list of possible sections is empty, add the list of selected sections to the list of possible schedules and return
@@ -213,21 +150,15 @@ class Solver {
                             j--;
                         }
                     }
-                    // console.log("NEW POSSIBLE SECTIONS")
-                    // console.log(newPossibleSections)
 
                     newSelectedSections = selSecs.slice();
                     newSelectedSections.push(section); // Add the section to the selected sections array
-                    // console.log("NEW SELECTED SECTIONS")
-                    // console.log(newSelectedSections)
 
                     newSelectedCourses = selectedCourses.slice();
                     let courseIndex = newSelectedCourses.findIndex(course => course.courseID === section.getCourseID());
                     if (courseIndex === -1) {
                         newSelectedCourses.push(section);
                     }
-                    // console.log("NEW SELECTED COURSES")
-                    // console.log(newSelectedCourses)
 
                     backtrack(newPossibleSections, newSelectedSections, newSelectedCourses, possibleSchedules, numCourses);
                 }
@@ -255,9 +186,7 @@ class Solver {
                 for (let k = 0; k < validSchedules[j].length; k++) {
                     validSchedule.addSection(validSchedules[j][k]);
                 }
-                // console.log(validSchedule)
                 if (schedule.isSame(validSchedule)) {
-                    // console.log("DUPLICATE FOUND")
                     duplicate = true;
                     break;
                 }
@@ -267,11 +196,6 @@ class Solver {
         }
 
         // Return the list of valid schedules
-        // let finalSchedules = [];
-        // for (let i = 0; i < validSchedules.length; i++) {
-        //     // console.log(typeof validSchedules[i])
-        //     finalSchedules.push(validSchedules[i].toJSON());
-        // }
         return validSchedules;
     }
 }
