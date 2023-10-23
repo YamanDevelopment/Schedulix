@@ -13,6 +13,7 @@
   - [Algorithm](#algorithm)
   - [Usage](#usage)
   - [Contributing](#contributing)
+  - [To-Do](#to-do)
   - [License](#license)
 
 ## Description
@@ -34,6 +35,13 @@ Having to make our college schedule while being dually enrolled in high school i
 ## Contributing
 
 If you want to help out with our code, contributions are welcomed! Feel free to fork the repository and make a pull request with your changes so we can review them :thumbsup:. If you have any questions, feel free to contact us.
+
+## To-Do
+
+- [ ] Add user input
+- [ ] Add more preferences
+- [ ] Create a scraper to get course data from the university's website
+- [ ] Link the backend to the frontend
 
 ## License
 
