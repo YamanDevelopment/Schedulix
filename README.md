@@ -1,6 +1,7 @@
 # Schedulix
 
 **Winner of the [NightHacks](https://nighthacks.devpost.com/) hackathon's top category: "Best Advanced Hack"**
+**Submission: [Devpost](https://devpost.com/software/schedulix)**
 
 ## Table of Contents
 
