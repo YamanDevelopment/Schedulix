@@ -1,4 +1,4 @@
-const Solver = require('./src/solver/solver');
+const Solver = require('./src/backend/solver');
 
 const solver = new Solver('./data/data.json');
 
