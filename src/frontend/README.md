@@ -1,38 +1,31 @@
-# create-svelte
+# Schedulix (frontend)
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Your All-In-One College Schedule Solution! Why spend countless hours forming a schedule when you can have Schedulix form multiple better schedules for you- and according to your preferences!
 
-## Creating a project
+## Table of Contents
 
-If you're seeing this, you've probably already done this step. Congrats!
+- [Installation](#installation)
+- [Usage](#usage)
 
+## Installation
+
+If you wanna try using the frontend yourself, you can clone the repository, open up a terminal and cd into the project folder then type 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+npm install
 ```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
+and once that's complete type
 ```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
+And it should return a localhost link for you to visit and boom! You're viewing the websites frontend! enjoy. 😊
 
-## Building
+## Usage
 
-To create a production version of your app:
+In a real world scenario, if or when the project is finalized beyond it's Hackathon submission state, students who would want to make a schedule would simply go onto the website, hit start, and follow the outlined steps to generating a schedule that matches their wants, needs, and general schedule preferences to match them and their perfectly semester. 
 
-```bash
-npm run build
-```
+## Contributing
 
-You can preview the production build with `npm run preview`.
+If anyone dares to, you can fork this repository and contribute if you'd like. To do so just follow the instructions in [Installation](#installation) but clone your forked repository instead so you can commit any changes you make or work you do.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+WE WON THE HACKATHONNN!!!!!!! TOP PRIZE FIRST HACKATON!!!

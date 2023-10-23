@@ -1,31 +1,40 @@
-# Schedulix (frontend)
+# Schedulix
 
-Your All-In-One College Schedule Solution! Why spend countless hours forming a schedule when you can have Schedulix form multiple better schedules for you- and according to your preferences!
+**Winner of the [NightHacks](https://nighthacks.devpost.com/) hackathon's top category: "Best Advanced Hack"**
+
+**Submission: [Devpost](https://devpost.com/software/schedulix)**
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [Schedulix](#schedulix)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Inspiration](#inspiration)
+  - [Algorithm](#algorithm)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
-## Installation
+## Description
 
-If you wanna try using the frontend yourself, you can clone the repository, open up a terminal and cd into the project folder then type 
-```bash
-npm install
-```
-and once that's complete type
-```bash
-npm run dev
-```
-And it should return a localhost link for you to visit and boom! You're viewing the websites frontend! enjoy. 😊
+Schedulix is a program that helps university students develop their course schedules for their upcoming semester. It takes in the user's preferences and generates multiple schedules that fit the user's preferences. The program is written in JavaScript and uses the [Node.js](https://nodejs.org/en/) runtime environment. 
+
+## Inspiration
+
+Having to make our college schedule while being dually enrolled in high school is such a pain especially having to consider so many variables, so we thought why not be able to automate this all the while still keeping our meticulous preferences in our schedule and on top of that give us multiple options to choose from. Multiple choice schedules perfect for everyone!
+
+## [Algorithm](src/backend/README.md)
 
 ## Usage
 
-In a real world scenario, if or when the project is finalized beyond it's Hackathon submission state, students who would want to make a schedule would simply go onto the website, hit start, and follow the outlined steps to generating a schedule that matches their wants, needs, and general schedule preferences to match them and their perfectly semester. 
+1. Clone the repository
+2. Run `node main.js` in the terminal (uses hardcoded preferences)
+3. Currently, the program hardcodes the preferences, but it will be updated to take user input in the future
 
 ## Contributing
 
-If anyone dares to, you can fork this repository and contribute if you'd like. To do so just follow the instructions in [Installation](#installation) but clone your forked repository instead so you can commit any changes you make or work you do.
+If you want to help out with our code, contributions are welcomed! Feel free to fork the repository and make a pull request with your changes so we can review them :thumbsup:. If you have any questions, feel free to contact us.
 
+## License
 
-WE WON THE HACKATHONNN!!!!!!! TOP PRIZE FIRST HACKATON!!!
+Unless otherwise specified, everything in this repository is covered by the [MIT License](https://choosealicense.com/licenses/mit/).
