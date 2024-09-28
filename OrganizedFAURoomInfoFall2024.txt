@@ -1,0 +1,5278 @@
+Boca Raton GS103
+  Monday
+    11:00AM - 1:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    3:00PM - 4:20PM
+
+Boca Raton FL424
+  Monday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    8:00AM - 9:20AM  
+    10:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    11:00AM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    10:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Friday
+    8:00AM - 9:20AM  
+    11:00AM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+
+Boca Raton GS117
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:20AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:30PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:30PM - 1:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:20AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:30PM - 1:50PM
+
+Boca Raton BU302
+  Monday
+    1:00PM - 3:50PM
+  Tuesday
+    9:00AM - 10:20AM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:00AM - 11:50AM
+  Thursday
+    9:00AM - 10:20AM  
+    2:00PM - 3:20PM
+
+Boca Raton ED123
+  Monday
+    8:00AM - 8:50AM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    8:00AM - 8:50AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    4:20PM - 7:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    8:00AM - 8:50AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+
+Boca Raton PS227
+  Monday
+    9:00AM - 10:50AM  
+    7:10PM - 10:00PM
+  Tuesday
+    9:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 2:50PM  
+    3:30PM - 4:20PM
+  Wednesday
+    9:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    4:00PM - 5:20PM  
+    7:10PM - 10:00PM
+  Thursday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 2:50PM  
+    3:30PM - 4:20PM
+  Friday
+    9:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    4:00PM - 5:20PM
+
+Boca Raton FL429
+  Monday
+    11:00AM - 1:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    10:00AM - 11:50AM  
+    2:00PM - 3:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Friday
+    10:00AM - 11:50AM  
+    2:00PM - 3:50PM
+
+Boca Raton FL404
+  Monday
+    11:00AM - 1:50PM  
+    4:00PM - 6:50PM  
+    7:10PM - 10:00PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+
+Boca Raton BU303
+  Monday
+    9:00AM - 11:50AM  
+    1:00PM - 3:50PM
+  Tuesday
+    9:00AM - 10:20AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:00AM - 10:20AM
+  Thursday
+    9:00AM - 10:20AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Friday
+    9:00AM - 10:20AM
+
+Boca Raton BU208
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    5:30PM - 6:50PM  
+    7:10PM - 10:00PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    5:30PM - 6:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM
+
+Davie LA234
+  Tuesday
+    6:30PM - 9:20PM
+  Wednesday
+    6:30PM - 9:20PM
+  Thursday
+    6:30PM - 9:20PM
+
+Boca Raton BU308
+  Monday
+    11:00AM - 1:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton ED115
+  Monday
+    4:20PM - 7:00PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 4:50PM
+  Wednesday
+    4:20PM - 7:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:20PM - 7:00PM
+
+Boca Raton BU405
+  Monday
+    11:00AM - 1:50PM
+  Tuesday
+    11:00AM - 1:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    11:00AM - 1:50PM  
+    3:30PM - 4:50PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM
+
+Davie ES105
+  Monday
+    6:30PM - 9:20PM
+  Wednesday
+    6:30PM - 9:20PM
+
+Boca Raton SC178
+  Monday
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:30PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Friday
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+
+Boca Raton FL423
+  Monday
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    6:30PM - 9:20PM
+  Thursday
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Friday
+    3:00PM - 3:50PM
+
+Boca Raton BU403
+  Monday
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    11:00AM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton SF118
+  Tuesday
+    2:00PM - 4:50PM
+
+Boca Raton SF122
+  Monday
+    11:00AM - 1:50PM
+
+Boca Raton GS116
+  Monday
+    10:00AM - 10:50AM  
+    11:00AM - 1:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    10:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:50PM  
+    2:00PM - 3:20PM
+  Friday
+    8:00AM - 9:20AM  
+    10:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton AL343
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 4:50PM  
+    7:10PM - 9:00PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:20PM - 7:00PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton AL342
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:20PM
+
+Boca Raton AL338
+  Monday
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Jupiter SR275
+  Monday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 6:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM
+
+Boca Raton GN102
+  Monday
+    8:00AM - 10:50AM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    5:00PM - 6:20PM  
+    7:10PM - 9:00PM
+  Wednesday
+    9:00AM - 9:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 2:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    5:00PM - 6:20PM  
+    7:10PM - 9:00PM
+  Friday
+    9:00AM - 9:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 2:50PM
+
+Boca Raton AL344
+  Monday
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM
+  Tuesday
+    10:00AM - 11:50AM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    3:30PM - 4:50PM
+  Thursday
+    10:00AM - 11:50AM  
+    4:00PM - 6:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    3:30PM - 4:50PM
+
+Boca Raton GS108
+  Monday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM  
+    3:00PM - 3:50PM  
+    4:00PM - 4:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Wednesday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM  
+    3:00PM - 3:50PM  
+    4:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Friday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    2:00PM - 2:50PM  
+    3:00PM - 3:50PM  
+    4:00PM - 4:50PM
+
+Boca Raton SO170
+  Monday
+    2:00PM - 2:50PM  
+    4:00PM - 6:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:00AM - 9:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:20PM
+  Friday
+    9:00AM - 9:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton GS110
+  Monday
+    11:00AM - 1:50PM  
+    2:00PM - 2:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Wednesday
+    10:00AM - 11:20AM  
+    2:00PM - 3:20PM  
+    4:20PM - 7:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Friday
+    10:00AM - 11:20AM  
+    2:00PM - 3:20PM
+
+Boca Raton AL345
+  Monday
+    11:00AM - 1:50PM  
+    2:00PM - 2:50PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton BS303
+  Monday
+    8:00AM - 10:50AM  
+    11:00AM - 1:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    2:00PM - 3:20PM
+
+Boca Raton GS102
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Jupiter SR272
+  Monday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    5:00PM - 6:20PM
+  Tuesday
+    11:00AM - 12:20PM  
+    3:30PM - 5:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    5:00PM - 6:20PM
+  Thursday
+    11:00AM - 12:20PM  
+    3:30PM - 5:20PM
+
+Boca Raton AH105
+  Monday
+    4:00PM - 6:50PM
+  Tuesday
+    4:00PM - 6:50PM  
+    7:10PM - 10:00PM
+  Wednesday
+    5:00PM - 7:50PM
+  Thursday
+    4:00PM - 6:50PM
+
+Boca Raton ED333
+  Monday
+    11:00AM - 1:50PM
+  Tuesday
+    11:00AM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM
+  Thursday
+    11:00AM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    9:30AM - 10:50AM  
+    12:00PM - 12:50PM
+
+Jupiter AD103
+  Monday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+
+Boca Raton SO385
+  Monday
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 6:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:20PM - 7:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Jupiter AD202
+  Monday
+    9:00AM - 10:20AM  
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:00AM - 10:20AM  
+    11:00AM - 12:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+
+Boca Raton CU321
+  Monday
+    4:00PM - 6:50PM
+  Tuesday
+    4:00PM - 6:50PM  
+    7:10PM - 10:00PM
+  Wednesday
+    4:00PM - 6:50PM  
+    7:10PM - 10:00PM
+  Thursday
+    4:00PM - 6:50PM  
+    7:10PM - 10:00PM
+  Friday
+    4:00PM - 6:50PM
+
+Boca Raton SO190
+  Monday
+    6:00PM - 8:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    6:00PM - 8:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+
+Boca Raton SO250
+  Monday
+    7:10PM - 8:30PM
+  Tuesday
+    10:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:50PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM  
+    4:00PM - 6:50PM  
+    7:10PM - 8:30PM
+  Thursday
+    10:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:50PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM
+
+Boca Raton BU120
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Jupiter SR279
+  Monday
+    9:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 5:20PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 5:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:20PM  
+    3:30PM - 4:50PM  
+    6:00PM - 8:50PM
+
+Jupiter SR268
+  Monday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton AC119
+  Monday
+    8:00AM - 9:30AM  
+    10:00AM - 11:20AM  
+    1:00PM - 2:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    11:00AM - 12:20PM  
+    1:00PM - 2:20PM  
+    2:30PM - 3:50PM
+  Wednesday
+    8:00AM - 9:30AM  
+    10:00AM - 11:20AM  
+    11:30AM - 12:50PM  
+    1:00PM - 2:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    11:00AM - 12:20PM  
+    1:00PM - 2:20PM  
+    2:30PM - 3:50PM
+  Friday
+    9:00AM - 10:50AM
+
+Boca Raton EE106
+  Monday
+    9:00AM - 9:50AM  
+    5:00PM - 7:00PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton T0608A
+  Tuesday
+    2:00PM - 3:20PM
+  Thursday
+    2:00PM - 3:20PM
+
+Boca Raton GN101
+  Monday
+    12:00PM - 12:50PM  
+    5:00PM - 6:20PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    2:00PM - 3:20PM  
+    5:00PM - 6:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:20PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    2:00PM - 3:20PM
+
+Ft Lauderdale HE910
+  Monday
+    10:30AM - 11:50AM
+  Tuesday
+    9:00AM - 10:20AM  
+    10:30AM - 11:50AM  
+    6:30PM - 9:20PM
+  Wednesday
+    10:30AM - 11:50AM
+  Thursday
+    9:00AM - 10:20AM  
+    10:30AM - 11:50AM
+
+Ft Lauderdale HE911
+  Monday
+    5:00PM - 6:20PM
+  Tuesday
+    9:00AM - 10:20AM  
+    10:30AM - 11:50AM
+  Wednesday
+    5:00PM - 6:20PM  
+    7:10PM - 10:00PM
+  Thursday
+    9:00AM - 10:20AM  
+    10:30AM - 11:50AM  
+    6:30PM - 9:20PM
+
+Ft Lauderdale HE608
+  Tuesday
+    1:00PM - 4:50PM  
+    5:00PM - 7:50PM
+  Wednesday
+    9:00AM - 11:50AM  
+    1:00PM - 4:50PM
+  Friday
+    9:00AM - 11:50AM
+
+Ft Lauderdale HE312
+  Monday
+    9:00AM - 10:20AM  
+    10:30AM - 11:50AM  
+    12:30PM - 4:20PM  
+    7:00PM - 8:20PM
+  Tuesday
+    10:30AM - 11:50AM  
+    12:30PM - 4:20PM
+  Wednesday
+    9:00AM - 10:20AM  
+    10:30AM - 11:50AM  
+    12:30PM - 4:20PM  
+    7:00PM - 8:20PM
+  Thursday
+    10:30AM - 11:50AM  
+    12:30PM - 4:20PM
+
+Ft Lauderdale HE908
+  Monday
+    5:00PM - 6:20PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:00AM - 12:50PM  
+    3:00PM - 4:50PM  
+    6:00PM - 7:50PM
+  Wednesday
+    5:00PM - 6:20PM
+  Thursday
+    3:00PM - 4:50PM  
+    6:00PM - 7:50PM
+
+Ft Lauderdale HE814
+  Tuesday
+    12:30PM - 4:20PM
+  Thursday
+    12:30PM - 4:20PM
+
+Boca Raton ED118
+  Wednesday
+    11:00AM - 1:50PM
+
+Boca Raton PA101
+  Monday
+    4:00PM - 6:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:00PM - 7:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Jupiter SR258
+  Monday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM
+  Tuesday
+    11:00AM - 12:20PM  
+    3:30PM - 6:20PM
+  Wednesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM
+  Thursday
+    11:00AM - 12:20PM
+
+Boca Raton AL189
+  Monday
+    8:00AM - 8:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:00PM - 6:50PM
+  Wednesday
+    8:00AM - 8:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    7:10PM - 10:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    7:10PM - 10:00PM
+  Friday
+    8:00AM - 8:50AM  
+    1:00PM - 1:50PM
+
+Boca Raton PA102
+  Friday
+    9:00AM - 12:40PM
+
+Boca Raton AH116
+  Friday
+    9:00AM - 12:40PM
+
+Boca Raton VA113
+  Monday
+    9:00AM - 10:50AM
+  Tuesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM
+  Wednesday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM  
+    5:00PM - 6:50PM
+  Thursday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM
+  Friday
+    1:00PM - 2:50PM  
+    5:00PM - 6:50PM
+
+Boca Raton VA107
+  Monday
+    1:00PM - 2:50PM  
+    4:00PM - 5:50PM
+  Tuesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM
+  Wednesday
+    1:00PM - 2:50PM  
+    4:00PM - 5:50PM
+  Thursday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM
+
+Boca Raton VA106
+  Monday
+    9:00AM - 12:40PM
+  Tuesday
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM  
+    5:00PM - 6:50PM
+  Wednesday
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM
+  Thursday
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM  
+    5:00PM - 6:50PM
+  Friday
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM
+
+Boca Raton VA104
+  Monday
+    2:00PM - 5:40PM
+  Tuesday
+    11:00AM - 12:50PM
+  Wednesday
+    1:00PM - 2:50PM
+  Thursday
+    11:00AM - 12:50PM
+  Friday
+    1:00PM - 2:50PM
+
+Boca Raton VA105
+  Monday
+    11:00AM - 2:40PM
+  Tuesday
+    9:00AM - 10:50AM  
+    11:00AM - 2:40PM
+  Wednesday
+    11:00AM - 2:40PM  
+    3:00PM - 4:50PM
+  Thursday
+    9:00AM - 10:50AM
+  Friday
+    3:00PM - 4:50PM
+
+Boca Raton AH206
+  Monday
+    11:00AM - 12:50PM  
+    4:00PM - 5:50PM
+  Tuesday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM  
+    4:00PM - 5:50PM
+  Wednesday
+    11:00AM - 12:50PM  
+    4:00PM - 5:50PM
+  Thursday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM  
+    4:00PM - 5:50PM
+
+Boca Raton VA112
+  Tuesday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM  
+    4:00PM - 5:50PM
+  Wednesday
+    9:00AM - 10:50AM
+  Thursday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM  
+    4:00PM - 5:50PM
+  Friday
+    9:00AM - 10:50AM
+
+Jupiter AD122
+  Tuesday
+    1:30PM - 3:20PM
+  Thursday
+    1:30PM - 3:20PM
+
+Ft Lauderdale HE918
+  Tuesday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM
+  Wednesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    4:00PM - 6:50PM
+  Thursday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM
+  Friday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM
+
+Boca Raton AL242
+  Monday
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 4:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    3:00PM - 3:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+
+Boca Raton BU102
+  Monday
+    3:00PM - 4:20PM  
+    5:00PM - 6:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    5:00PM - 6:20PM
+
+Jupiter HC139
+  Monday
+    9:00AM - 11:50AM  
+    1:00PM - 3:50PM
+  Tuesday
+    9:00AM - 11:50AM  
+    1:00PM - 3:50PM
+  Wednesday
+    9:00AM - 11:50AM
+  Thursday
+    9:00AM - 11:50AM  
+    1:00PM - 4:00PM
+
+Boca Raton PS233
+  Wednesday
+    12:00PM - 12:50PM
+  Thursday
+    2:00PM - 5:50PM
+
+Boca Raton CM125
+  Monday
+    11:00AM - 12:50PM  
+    5:30PM - 6:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    7:10PM - 10:00PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    5:30PM - 6:50PM  
+    7:10PM - 10:00PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:20PM - 7:00PM  
+    7:10PM - 10:00PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+
+Boca Raton PS226
+  Monday
+    4:00PM - 5:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    4:00PM - 5:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:00PM - 5:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    4:00PM - 5:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 4:50PM
+
+Boca Raton CM130
+  Monday
+    4:00PM - 6:50PM  
+    7:10PM - 10:00PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    7:10PM - 10:00PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    4:00PM - 6:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    7:10PM - 10:00PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+
+Boca Raton CM128
+  Monday
+    4:00PM - 6:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    4:00PM - 6:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Friday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM
+
+Boca Raton SC141
+  Tuesday
+    11:00AM - 12:50PM
+  Wednesday
+    9:00AM - 10:20AM  
+    12:00PM - 2:50PM
+  Thursday
+    11:00AM - 12:50PM
+  Friday
+    1:00PM - 3:50PM
+
+Jupiter SR283
+  Monday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 11:50AM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 11:50AM  
+    3:30PM - 4:50PM
+
+Boca Raton SC146
+  Monday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM  
+    3:00PM - 4:50PM  
+    5:00PM - 6:50PM  
+    7:00PM - 8:50PM
+  Tuesday
+    8:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM  
+    6:00PM - 7:50PM  
+    8:00PM - 9:50PM
+  Wednesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM  
+    6:00PM - 7:50PM
+  Thursday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM  
+    6:00PM - 7:50PM
+  Friday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM
+
+Boca Raton SC108
+  Monday
+    1:00PM - 2:50PM  
+    3:00PM - 4:50PM
+  Tuesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM
+  Wednesday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM  
+    3:00PM - 4:50PM
+  Thursday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM
+
+Jupiter HC180
+  Monday
+    2:00PM - 3:50PM
+  Tuesday
+    1:00PM - 3:50PM
+  Wednesday
+    9:30AM - 12:20PM  
+    1:00PM - 3:50PM
+  Thursday
+    9:00AM - 11:50AM  
+    1:00PM - 3:50PM
+  Friday
+    8:00AM - 10:50AM
+
+Jupiter EC102
+  Monday
+    9:00AM - 10:50AM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Wednesday
+    9:00AM - 10:50AM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Friday
+    9:00AM - 10:50AM
+
+Boca Raton NU113
+  Monday
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    2:00PM - 2:50PM  
+    5:00PM - 6:20PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:20PM
+  Wednesday
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM  
+    5:00PM - 6:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:20PM
+  Friday
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM
+
+Boca Raton SC144
+  Monday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:00PM - 8:50PM
+  Tuesday
+    8:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    5:30PM - 8:20PM
+  Wednesday
+    8:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    5:00PM - 7:50PM  
+    8:00PM - 10:50PM
+  Thursday
+    8:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    5:30PM - 8:20PM
+  Friday
+    8:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM
+
+Boca Raton SC145
+  Monday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:00PM - 8:50PM
+  Tuesday
+    8:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    5:30PM - 8:20PM
+  Wednesday
+    8:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    5:00PM - 7:50PM  
+    8:00PM - 10:50PM
+  Thursday
+    5:30PM - 8:20PM
+  Friday
+    8:00AM - 10:50AM
+
+Boca Raton SC115
+  Monday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:00PM - 8:50PM
+  Tuesday
+    8:00AM - 10:50AM  
+    11:00AM - 1:50PM
+  Wednesday
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM  
+    3:30PM - 7:20PM
+  Thursday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Friday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    11:00AM - 12:50PM  
+    12:00PM - 1:50PM  
+    1:00PM - 2:50PM  
+    2:00PM - 3:50PM
+
+Boca Raton SC116
+  Monday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM  
+    6:00PM - 7:50PM
+  Tuesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM  
+    6:00PM - 7:50PM
+  Wednesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Thursday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM
+  Friday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM
+
+Davie LA120
+  Monday
+    4:00PM - 5:20PM
+  Tuesday
+    9:30AM - 10:50AM
+  Wednesday
+    4:00PM - 5:20PM
+  Thursday
+    9:30AM - 10:50AM
+
+Davie ES315
+  Tuesday
+    4:00PM - 5:50PM  
+    6:00PM - 7:50PM
+  Wednesday
+    2:00PM - 3:50PM  
+    6:00PM - 7:50PM
+
+Jupiter AD204
+  Monday
+    9:30AM - 10:50AM  
+    11:00AM - 12:50PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Friday
+    8:00AM - 10:50AM  
+    12:00PM - 12:50PM
+
+Boca Raton GS120
+  Monday
+    2:00PM - 2:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton PS111
+  Monday
+    10:00AM - 11:50AM  
+    4:00PM - 5:20PM
+  Tuesday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    7:10PM - 8:30PM
+  Wednesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:20PM
+  Thursday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    7:10PM - 8:30PM
+  Friday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM
+
+Boca Raton ED113
+  Monday
+    4:20PM - 7:00PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    11:00AM - 12:20PM  
+    4:20PM - 7:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:20PM - 7:00PM
+  Friday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    1:00PM - 1:50PM
+
+Davie DW108
+  Tuesday
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM
+  Thursday
+    2:00PM - 3:20PM
+  Friday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM
+
+Davie GR100
+  Thursday
+    3:30PM - 5:30PM
+
+Boca Raton SC180
+  Monday
+    2:00PM - 4:30PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+
+Boca Raton SC118
+  Monday
+    2:00PM - 3:50PM
+  Wednesday
+    2:00PM - 3:50PM
+
+Jupiter EC104
+  Wednesday
+    12:00PM - 3:50PM
+  Thursday
+    12:30PM - 3:20PM
+
+Jupiter HC114
+  Monday
+    11:00AM - 12:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Harbor Branch MC209
+  Monday
+    10:00AM - 12:50PM  
+    2:00PM - 4:50PM
+  Tuesday
+    11:00AM - 12:50PM  
+    2:00PM - 3:20PM
+  Thursday
+    11:00AM - 12:50PM  
+    2:00PM - 3:20PM
+  Friday
+    1:00PM - 3:50PM
+
+Davie LA455
+  Tuesday
+    11:00AM - 12:20PM
+  Thursday
+    11:00AM - 12:20PM
+  Friday
+    1:00PM - 3:50PM
+
+Jupiter AD206
+  Monday
+    9:30AM - 10:50AM  
+    11:00AM - 12:50PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    2:00PM - 4:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton BU401
+  Monday
+    11:00AM - 1:50PM  
+    4:00PM - 6:50PM
+  Tuesday
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    12:30PM - 1:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    2:00PM - 3:20PM
+  Friday
+    12:30PM - 1:50PM
+
+Jupiter RF119
+  Tuesday
+    11:00AM - 12:20PM
+  Wednesday
+    9:00AM - 11:50AM  
+    3:00PM - 5:50PM
+  Thursday
+    11:00AM - 12:20PM
+
+Jupiter NR101
+  Tuesday
+    4:00PM - 5:30PM
+
+Davie LA332
+  Monday
+    2:00PM - 4:50PM
+  Tuesday
+    6:30PM - 9:20PM
+  Thursday
+    6:30PM - 9:20PM
+
+Boca Raton FL426
+  Monday
+    11:00AM - 1:50PM  
+    3:00PM - 3:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    3:00PM - 3:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    3:00PM - 3:50PM
+
+Boca Raton BU307
+  Monday
+    11:00AM - 1:50PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Friday
+    8:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton FL427
+  Monday
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    12:00PM - 12:50PM  
+    2:00PM - 3:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    12:00PM - 12:50PM  
+    2:00PM - 3:50PM
+
+Boca Raton IS113
+  Monday
+    12:00PM - 12:50PM  
+    2:00PM - 2:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    7:10PM - 10:00PM
+  Wednesday
+    11:00AM - 1:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    8:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    1:00PM - 3:50PM
+
+Boca Raton GS118
+  Monday
+    11:00AM - 1:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Saturday
+    10:00AM - 12:50PM
+
+Boca Raton AC122
+  Monday
+    7:00PM - 7:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton SO270
+  Monday
+    9:00AM - 9:50AM  
+    2:00PM - 4:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Friday
+    9:00AM - 9:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+
+Boca Raton ED114
+  Monday
+    2:00PM - 4:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Wednesday
+    10:00AM - 11:50AM  
+    4:20PM - 7:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Friday
+    10:00AM - 11:50AM
+
+Boca Raton SO207
+  Monday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    7:10PM - 10:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM
+
+Boca Raton PS112
+  Monday
+    12:00PM - 12:50PM  
+    2:00PM - 2:50PM  
+    4:00PM - 5:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+  Wednesday
+    2:00PM - 2:50PM  
+    4:00PM - 5:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+  Friday
+    2:00PM - 2:50PM
+
+Boca Raton GS111
+  Monday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton SO370
+  Monday
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+
+Boca Raton BU109
+  Monday
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton EE207
+  Monday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Tuesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM  
+    4:00PM - 8:00PM
+  Wednesday
+    9:00AM - 10:50AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:50PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Thursday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Friday
+    9:00AM - 10:50AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:50PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+
+Boca Raton ED119
+  Monday
+    8:00AM - 8:50AM  
+    11:00AM - 12:50PM
+  Tuesday
+    8:00AM - 8:50AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    8:00AM - 8:50AM  
+    11:00AM - 12:20PM  
+    4:00PM - 5:50PM
+  Thursday
+    8:00AM - 8:50AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    8:00AM - 8:50AM  
+    11:00AM - 12:20PM
+
+Boca Raton IS103
+  Tuesday
+    9:30AM - 10:50AM  
+    4:00PM - 6:50PM
+  Wednesday
+    10:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    4:00PM - 6:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    4:00PM - 6:50PM
+  Friday
+    12:30PM - 1:50PM
+  Saturday
+    8:00AM - 5:00PM
+
+Boca Raton KH102
+  Monday
+    10:00AM - 11:50AM  
+    12:30PM - 1:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+
+Jupiter AD104
+  Monday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM
+
+Jupiter AD205
+  Monday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Tuesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    5:00PM - 6:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Thursday
+    9:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    5:00PM - 6:20PM
+
+Boca Raton PS109
+  Tuesday
+    8:00AM - 9:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:50PM
+  Wednesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Thursday
+    8:00AM - 9:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:50PM
+  Friday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+
+Boca Raton PS204
+  Monday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:00PM - 8:50PM
+  Tuesday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM
+  Wednesday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:00PM - 8:50PM
+  Thursday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM
+  Friday
+    9:00AM - 11:50AM
+
+Boca Raton PS206
+  Monday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:00PM - 8:50PM
+  Tuesday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM
+  Wednesday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM
+  Thursday
+    12:00PM - 2:50PM
+  Friday
+    9:00AM - 11:50AM
+
+Boca Raton PS209
+  Monday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:00PM - 8:50PM
+  Tuesday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:00PM - 8:50PM
+  Thursday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM
+
+Boca Raton PS210
+  Monday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    6:00PM - 8:50PM
+  Tuesday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM
+  Thursday
+    3:00PM - 5:50PM
+
+Jupiter HC135
+  Monday
+    1:00PM - 3:50PM  
+    5:30PM - 8:20PM
+  Tuesday
+    1:00PM - 3:50PM
+  Wednesday
+    1:00PM - 3:50PM
+  Thursday
+    1:00PM - 3:50PM
+
+Boca Raton PS237
+  Monday
+    9:00AM - 11:50AM  
+    2:00PM - 4:50PM
+  Tuesday
+    9:30AM - 12:20PM  
+    2:00PM - 4:50PM
+  Wednesday
+    9:00AM - 11:50AM  
+    2:00PM - 4:50PM
+  Thursday
+    9:30AM - 12:20PM  
+    2:00PM - 4:50PM
+
+Boca Raton PS239
+  Monday
+    9:00AM - 11:50AM  
+    2:00PM - 4:50PM
+  Tuesday
+    9:30AM - 12:20PM  
+    2:00PM - 4:50PM
+  Wednesday
+    9:00AM - 11:50AM  
+    2:00PM - 4:50PM
+  Thursday
+    9:30AM - 12:20PM  
+    2:00PM - 4:50PM
+
+Other PS237
+  Friday
+    5:00PM - 5:50PM
+
+Boca Raton PS334
+  Tuesday
+    1:00PM - 1:50PM
+  Thursday
+    1:00PM - 1:50PM
+
+Boca Raton PS240
+  Tuesday
+    9:00AM - 11:50AM  
+    2:00PM - 4:50PM
+  Thursday
+    9:00AM - 11:50AM  
+    2:00PM - 4:50PM
+
+Boca Raton PS337
+  Monday
+    12:30PM - 1:50PM
+  Wednesday
+    12:30PM - 1:50PM
+
+Boca Raton SC119
+  Monday
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    3:00PM - 3:50PM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    4:00PM - 5:20PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:20PM  
+    6:30PM - 9:20PM
+  Friday
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM
+
+Boca Raton GS119
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM  
+    4:00PM - 6:50PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+
+Davie ES116
+  Monday
+    6:30PM - 9:20PM
+  Tuesday
+    4:00PM - 6:50PM
+  Wednesday
+    6:30PM - 9:20PM
+  Saturday
+    8:30AM - 4:30PM
+
+Boca Raton ED112
+  Monday
+    2:00PM - 4:50PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    4:20PM - 7:00PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:00PM - 8:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+
+Davie LA339
+  Monday
+    6:30PM - 9:20PM
+  Tuesday
+    6:30PM - 9:20PM
+  Wednesday
+    11:00AM - 1:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    4:00PM - 6:50PM
+
+Boca Raton GS115
+  Monday
+    4:00PM - 6:50PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton GS101
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton CU120
+  Monday
+    9:00AM - 9:50AM  
+    1:00PM - 1:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    1:00PM - 1:50PM  
+    3:00PM - 4:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:00AM - 9:50AM  
+    1:00PM - 1:50PM  
+    7:10PM - 10:00PM
+
+Boca Raton CU121
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:00PM - 6:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    7:10PM - 10:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Friday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+
+Boca Raton CU222
+  Tuesday
+    10:00AM - 12:50PM
+  Wednesday
+    4:00PM - 6:50PM
+  Friday
+    11:00AM - 1:50PM
+
+Jupiter HC111
+  Monday
+    2:00PM - 3:20PM
+  Wednesday
+    2:00PM - 3:20PM
+
+Boca Raton EE213
+  Monday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Tuesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Wednesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Thursday
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Friday
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+
+Davie LA139
+  Monday
+    6:30PM - 9:20PM
+  Tuesday
+    11:00AM - 12:20PM
+  Wednesday
+    6:30PM - 9:20PM
+  Thursday
+    11:00AM - 12:20PM  
+    6:30PM - 9:20PM
+
+Boca Raton SO377
+  Tuesday
+    4:00PM - 6:50PM
+  Wednesday
+    4:20PM - 7:00PM  
+    7:10PM - 10:00PM
+  Thursday
+    4:00PM - 6:50PM  
+    7:10PM - 10:00PM
+
+Boca Raton FA103
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton SE483
+  Monday
+    9:30AM - 10:50AM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM  
+    7:10PM - 10:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM  
+    6:00PM - 7:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton AH204
+  Monday
+    8:00AM - 8:50AM  
+    11:00AM - 11:50AM  
+    2:00PM - 4:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    8:00AM - 8:50AM  
+    9:30AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    4:00PM - 6:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    8:00AM - 8:50AM  
+    9:30AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:30PM - 1:50PM
+
+Boca Raton CU124
+  Monday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton CU301
+  Monday
+    1:00PM - 3:50PM  
+    4:00PM - 6:50PM
+
+Boca Raton SO390
+  Monday
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM  
+    4:00PM - 6:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Friday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton AL130
+  Tuesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Thursday
+    9:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Davie LA341
+  Tuesday
+    11:00AM - 1:50PM
+  Thursday
+    11:00AM - 1:50PM
+
+Davie LA124
+  Monday
+    4:20PM - 7:00PM
+  Tuesday
+    12:30PM - 1:50PM
+  Wednesday
+    4:20PM - 7:00PM
+  Thursday
+    12:30PM - 1:50PM  
+    7:10PM - 10:00PM
+
+Davie LA445
+  Tuesday
+    4:20PM - 7:00PM
+  Wednesday
+    7:10PM - 10:00PM
+  Thursday
+    4:20PM - 7:00PM
+
+Boca Raton BS245
+  Monday
+    11:00AM - 1:50PM
+  Wednesday
+    11:00AM - 1:50PM
+  Friday
+    11:00AM - 1:50PM
+
+Boca Raton BS105
+  Monday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    3:30PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM
+
+Ft Lauderdale HE914
+  Monday
+    9:00AM - 12:50PM  
+    1:00PM - 4:50PM
+  Tuesday
+    1:00PM - 4:50PM  
+    6:00PM - 9:50PM
+  Wednesday
+    9:00AM - 12:50PM  
+    1:00PM - 4:50PM
+  Thursday
+    1:00PM - 4:50PM
+  Friday
+    1:00PM - 4:50PM
+
+Boca Raton AL102
+  Monday
+    9:00AM - 12:50PM
+  Tuesday
+    9:00AM - 12:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:00AM - 12:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Thursday
+    9:00AM - 12:50PM  
+    2:00PM - 3:20PM
+  Friday
+    9:00AM - 12:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+
+Boca Raton OD203
+  Monday
+    1:00PM - 3:50PM
+  Tuesday
+    9:00AM - 10:20AM  
+    11:00AM - 12:20PM  
+    1:00PM - 3:50PM
+  Wednesday
+    11:00AM - 12:20PM
+  Thursday
+    9:00AM - 10:20AM  
+    11:00AM - 12:20PM
+  Friday
+    11:00AM - 12:20PM
+
+Boca Raton OD202
+  Monday
+    2:00PM - 4:50PM
+  Tuesday
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:30PM
+  Wednesday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM
+
+Davie LA132
+  Monday
+    11:00AM - 1:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    6:30PM - 9:20PM
+
+Boca Raton BU101
+  Monday
+    11:00AM - 1:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    11:00AM - 12:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    11:00AM - 1:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    11:00AM - 12:20PM  
+    6:30PM - 9:20PM
+
+Boca Raton FL411
+  Monday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    11:00AM - 1:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    11:00AM - 1:50PM  
+    3:30PM - 4:50PM  
+    6:30PM - 9:20PM
+
+Boca Raton FL401
+  Monday
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    4:00PM - 5:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    7:10PM - 9:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    4:00PM - 5:50PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+
+Davie ES103
+  Tuesday
+    11:00AM - 1:50PM  
+    4:00PM - 4:50PM
+  Wednesday
+    9:00AM - 11:50AM  
+    4:00PM - 6:50PM
+  Thursday
+    4:00PM - 4:50PM
+  Saturday
+    8:30AM - 4:30PM
+
+Boca Raton ED124
+  Monday
+    4:20PM - 7:00PM
+  Tuesday
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    4:20PM - 7:00PM
+  Wednesday
+    2:00PM - 4:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+
+Boca Raton ED313
+  Monday
+    4:20PM - 7:00PM
+  Tuesday
+    4:20PM - 7:00PM
+  Wednesday
+    9:00AM - 11:50AM  
+    4:20PM - 7:00PM
+  Thursday
+    11:00AM - 1:50PM  
+    4:20PM - 7:00PM
+
+Jupiter HM101
+  Friday
+    9:00AM - 9:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM
+
+Boca Raton PS113
+  Monday
+    9:00AM - 9:50AM  
+    2:00PM - 4:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    2:00PM - 3:50PM
+  Thursday
+    11:00AM - 11:50AM
+  Friday
+    9:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    2:00PM - 3:50PM
+
+Davie ES118
+  Monday
+    6:30PM - 9:20PM
+  Tuesday
+    9:30AM - 10:50AM
+  Thursday
+    9:30AM - 10:50AM  
+    6:30PM - 9:20PM
+  Saturday
+    8:30AM - 4:30PM
+
+Davie ES102
+  Monday
+    7:10PM - 10:00PM
+  Tuesday
+    6:30PM - 9:20PM
+  Saturday
+    8:30AM - 4:30PM
+
+Boca Raton ED125
+  Monday
+    4:20PM - 7:00PM
+  Tuesday
+    4:00PM - 6:50PM
+  Wednesday
+    4:20PM - 7:00PM
+  Thursday
+    4:20PM - 7:00PM
+
+Boca Raton ED116
+  Monday
+    4:20PM - 7:00PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:20PM - 7:00PM
+  Wednesday
+    11:00AM - 1:50PM  
+    4:20PM - 7:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:20PM - 7:00PM
+  Friday
+    11:00AM - 1:50PM
+
+Boca Raton GS109
+  Monday
+    2:00PM - 4:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton EE210
+  Tuesday
+    9:00AM - 11:50AM
+  Wednesday
+    1:00PM - 3:50PM
+  Thursday
+    9:00AM - 11:50AM
+  Friday
+    1:00PM - 3:50PM
+
+Boca Raton ED120
+  Monday
+    5:00PM - 7:50PM
+  Tuesday
+    4:20PM - 7:00PM
+  Wednesday
+    6:30PM - 9:20PM
+  Thursday
+    4:00PM - 6:50PM
+
+Boca Raton ED411
+  Monday
+    5:00PM - 7:50PM
+  Wednesday
+    5:00PM - 7:50PM
+
+Boca Raton EG162
+  Monday
+    10:00AM - 10:50AM
+  Tuesday
+    4:30PM - 6:20PM
+  Wednesday
+    4:00PM - 4:50PM
+  Thursday
+    4:30PM - 6:20PM
+  Friday
+    9:30AM - 10:50AM  
+    12:30PM - 1:50PM  
+    4:00PM - 4:50PM
+
+Boca Raton SO200
+  Monday
+    10:00AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    5:00PM - 6:20PM  
+    6:30PM - 9:20PM
+  Tuesday
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    5:00PM - 6:20PM  
+    6:30PM - 9:20PM
+  Thursday
+    2:00PM - 4:50PM
+  Friday
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton EE208
+  Monday
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM
+  Tuesday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Wednesday
+    2:00PM - 3:50PM
+  Thursday
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM
+  Friday
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM
+
+Boca Raton ED337
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Wednesday
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM
+  Friday
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM
+
+Boca Raton GS107
+  Monday
+    11:00AM - 11:50AM  
+    4:20PM - 7:00PM
+  Tuesday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:30PM - 1:50PM  
+    4:00PM - 6:50PM
+  Thursday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:30PM - 1:50PM
+
+Boca Raton FA105
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+
+Boca Raton EG132
+  Wednesday
+    1:00PM - 2:50PM  
+    4:00PM - 5:50PM
+  Friday
+    1:00PM - 2:50PM
+
+Boca Raton CU125
+  Monday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+
+Boca Raton CU119
+  Monday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    7:10PM - 10:00PM
+
+Boca Raton CU126
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    1:00PM - 1:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 6:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Boca Raton CU118
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Friday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    7:10PM - 10:00PM
+
+Boca Raton CU127
+  Monday
+    9:00AM - 9:50AM  
+    2:00PM - 2:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 2:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:00AM - 9:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 2:50PM
+
+Boca Raton CU128
+  Monday
+    9:00AM - 9:50AM  
+    11:00AM - 1:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:00PM - 6:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:00PM - 6:50PM
+  Friday
+    9:00AM - 9:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton AL346
+  Monday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM  
+    3:00PM - 3:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    5:30PM - 6:50PM
+  Wednesday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM  
+    3:00PM - 3:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    5:30PM - 6:50PM
+  Friday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM  
+    3:00PM - 3:50PM
+
+Boca Raton CU123
+  Monday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    2:00PM - 2:50PM  
+    3:00PM - 3:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM  
+    3:00PM - 3:50PM  
+    4:00PM - 6:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM  
+    3:00PM - 3:50PM
+
+Boca Raton CU131
+  Monday
+    11:00AM - 11:50AM  
+    1:00PM - 1:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 3:50PM  
+    5:00PM - 6:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 11:50AM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    2:00PM - 3:50PM  
+    5:00PM - 6:20PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 11:50AM  
+    1:00PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+
+Boca Raton ED111
+  Monday
+    11:00AM - 12:20PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:20PM - 7:00PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    4:20PM - 7:00PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    9:30AM - 10:50AM
+
+Boca Raton GS208
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Jupiter SR269
+  Monday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+  Tuesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:20PM - 7:00PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+  Thursday
+    9:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton CU129
+  Monday
+    12:00PM - 12:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    12:00PM - 12:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:50PM
+  Friday
+    9:30AM - 10:50AM  
+    12:00PM - 12:50PM
+
+Boca Raton CU122
+  Monday
+    3:00PM - 3:50PM  
+    4:00PM - 4:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    3:00PM - 3:50PM  
+    4:00PM - 4:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    3:00PM - 3:50PM  
+    4:00PM - 4:50PM
+
+Boca Raton BU210
+  Tuesday
+    8:00AM - 10:50AM  
+    11:00AM - 1:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 4:50PM
+  Thursday
+    11:00AM - 1:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton BU411
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+
+Boca Raton BU112
+  Monday
+    7:10PM - 10:00PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:20PM - 7:00PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton CU130
+  Monday
+    2:00PM - 2:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:50PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    4:00PM - 5:50PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM
+
+Boca Raton FA104
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+
+Boca Raton BU410
+  Monday
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 1:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM
+
+Dania Beach - Sea-Tech ST233
+  Tuesday
+    10:00AM - 11:20AM  
+    12:30PM - 1:50PM  
+    2:00PM - 2:50PM
+  Wednesday
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Thursday
+    10:00AM - 11:20AM  
+    12:30PM - 1:50PM
+  Friday
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+
+Dania Beach - Sea-Tech ST209
+  Tuesday
+    8:00AM - 9:20AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+  Thursday
+    8:00AM - 9:20AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM
+
+Boca Raton SE457
+  Monday
+    11:00AM - 1:50PM
+  Tuesday
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    2:00PM - 4:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Friday
+    9:30AM - 10:50AM
+
+Boca Raton BS108
+  Tuesday
+    11:00AM - 12:20PM
+  Wednesday
+    2:00PM - 3:20PM
+  Thursday
+    11:00AM - 12:20PM
+  Friday
+    2:00PM - 3:20PM
+
+Boca Raton CU109
+  Monday
+    9:00AM - 12:50PM
+  Tuesday
+    9:00AM - 12:50PM
+  Wednesday
+    9:00AM - 12:50PM  
+    1:00PM - 4:50PM
+  Thursday
+    1:00PM - 4:50PM  
+    6:00PM - 9:50PM
+  Friday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM
+
+Boca Raton CU107
+  Tuesday
+    1:00PM - 4:50PM  
+    6:00PM - 8:50PM
+  Wednesday
+    12:00PM - 1:50PM
+  Thursday
+    1:00PM - 4:50PM
+  Friday
+    12:00PM - 1:50PM
+  Saturday
+    10:00AM - 2:00PM
+
+Boca Raton AL240
+  Monday
+    4:00PM - 7:50PM
+  Wednesday
+    9:00AM - 11:50AM  
+    9:30AM - 10:50AM  
+    4:00PM - 7:50PM
+  Thursday
+    9:00AM - 12:50PM  
+    2:00PM - 5:50PM
+  Friday
+    9:30AM - 10:50AM
+
+Davie LA303D
+  Monday
+    6:30PM - 9:20PM
+  Tuesday
+    6:30PM - 9:20PM
+  Wednesday
+    6:30PM - 9:20PM
+  Friday
+    11:00AM - 1:50PM
+
+Boca Raton BU207
+  Monday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM  
+    3:30PM - 4:50PM  
+    6:30PM - 9:20PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:20PM
+
+Davie LA404
+  Monday
+    2:00PM - 4:50PM
+  Tuesday
+    6:30PM - 9:20PM
+
+Boca Raton BU104
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 1:50PM
+  Tuesday
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Wednesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Thursday
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Friday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+
+Boca Raton OD101
+  Tuesday
+    6:30PM - 7:50PM
+
+Boca Raton SE413
+  Tuesday
+    2:00PM - 4:50PM
+
+Boca Raton SE421
+  Tuesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    2:00PM - 3:50PM
+  Thursday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    2:00PM - 3:50PM
+
+Boca Raton SE417
+  Monday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM
+
+Boca Raton SE435
+  Tuesday
+    12:30PM - 2:20PM
+  Wednesday
+    11:00AM - 12:50PM
+  Thursday
+    12:30PM - 2:20PM
+  Friday
+    11:00AM - 12:50PM
+
+Boca Raton BC217B
+  Tuesday
+    2:00PM - 4:50PM
+
+Ft Lauderdale HE1009
+  Monday
+    11:00AM - 2:50PM
+  Tuesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM  
+    3:00PM - 4:50PM
+  Wednesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM  
+    3:00PM - 4:50PM  
+    6:00PM - 7:50PM
+  Thursday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM  
+    3:00PM - 4:50PM
+  Friday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM  
+    3:00PM - 4:50PM  
+    6:00PM - 7:50PM
+
+Ft Lauderdale HE313
+  Tuesday
+    11:00AM - 12:50PM
+  Wednesday
+    5:00PM - 9:00PM
+  Thursday
+    11:00AM - 12:50PM
+
+Boca Raton VA115
+  Tuesday
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM
+  Wednesday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM
+  Thursday
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM
+  Friday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM
+
+Boca Raton LY552
+  Thursday
+    4:00PM - 6:50PM
+
+Boca Raton BU409
+  Monday
+    1:00PM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Jupiter AD119
+  Friday
+    1:00PM - 1:50PM
+
+Jupiter HC115
+  Monday
+    11:00AM - 12:20PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    4:20PM - 7:00PM
+  Wednesday
+    8:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 2:20PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton FL409
+  Monday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    11:00AM - 1:50PM  
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Friday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+
+Boca Raton CU321A
+  Wednesday
+    1:00PM - 3:50PM
+
+Boca Raton ED332
+  Monday
+    1:00PM - 3:50PM
+  Wednesday
+    4:20PM - 7:00PM
+  Thursday
+    4:20PM - 7:00PM
+
+Boca Raton BU105
+  Monday
+    11:00AM - 11:50AM  
+    12:00PM - 12:50PM  
+    1:00PM - 1:50PM  
+    2:00PM - 2:50PM  
+    3:00PM - 3:50PM  
+    7:10PM - 10:00PM
+  Tuesday
+    9:30AM - 10:50AM  
+    2:00PM - 3:20PM
+  Wednesday
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    2:00PM - 3:20PM  
+    6:30PM - 9:20PM
+  Friday
+    11:00AM - 12:20PM  
+    2:00PM - 4:50PM
+
+Boca Raton SE350
+  Monday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    4:00PM - 5:50PM  
+    6:00PM - 7:50PM
+  Tuesday
+    2:00PM - 3:50PM
+  Thursday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM
+
+Boca Raton SE340
+  Monday
+    2:00PM - 3:50PM
+  Tuesday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM
+  Thursday
+    3:00PM - 4:50PM
+  Friday
+    12:00PM - 1:50PM
+
+Boca Raton SC179
+  Monday
+    11:00AM - 11:50AM  
+    2:00PM - 4:50PM
+  Tuesday
+    2:00PM - 3:50PM
+  Wednesday
+    11:00AM - 11:50AM  
+    3:30PM - 4:50PM
+  Thursday
+    2:00PM - 3:50PM
+  Friday
+    11:00AM - 11:50AM  
+    3:30PM - 4:50PM
+
+Davie ES104
+  Tuesday
+    2:00PM - 3:50PM
+  Thursday
+    2:00PM - 3:50PM  
+    6:30PM - 9:20PM
+
+Davie ES121
+  Monday
+    7:10PM - 10:00PM
+  Tuesday
+    2:00PM - 4:50PM  
+    6:30PM - 9:20PM
+  Wednesday
+    6:30PM - 9:20PM
+  Thursday
+    7:10PM - 10:00PM
+
+Boca Raton SE271
+  Monday
+    2:00PM - 2:50PM  
+    4:00PM - 5:20PM
+  Tuesday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    12:00PM - 1:20PM  
+    2:00PM - 3:20PM
+  Wednesday
+    2:00PM - 2:50PM  
+    4:00PM - 5:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    9:30AM - 10:50AM  
+    12:00PM - 1:20PM  
+    2:00PM - 3:20PM
+  Friday
+    2:00PM - 2:50PM
+
+Boca Raton SE150
+  Monday
+    11:00AM - 12:50PM
+  Tuesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM
+  Wednesday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM
+  Thursday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM
+  Friday
+    9:00AM - 10:50AM  
+    1:00PM - 2:50PM
+
+Boca Raton SE215
+  Friday
+    1:00PM - 1:50PM
+
+Boca Raton SE314
+  Monday
+    4:00PM - 5:20PM
+  Wednesday
+    4:00PM - 5:20PM
+
+Boca Raton SC107
+  Monday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM
+  Tuesday
+    9:30AM - 12:20PM  
+    3:30PM - 5:20PM
+  Wednesday
+    9:00AM - 11:50AM  
+    12:00PM - 2:50PM  
+    3:00PM - 5:50PM  
+    6:00PM - 8:50PM
+  Thursday
+    9:30AM - 12:20PM  
+    3:30PM - 5:20PM
+  Friday
+    1:00PM - 2:50PM
+
+Davie ES302
+  Wednesday
+    2:30PM - 5:20PM  
+    6:00PM - 8:50PM
+
+Boca Raton ED464
+  Tuesday
+    4:20PM - 7:00PM
+  Wednesday
+    4:20PM - 7:00PM
+  Thursday
+    7:10PM - 10:00PM
+
+Boca Raton ED457
+  Monday
+    4:20PM - 7:00PM  
+    7:10PM - 10:00PM
+  Tuesday
+    4:20PM - 7:00PM
+  Wednesday
+    4:20PM - 7:00PM
+
+Boca Raton T011102
+  Tuesday
+    9:30AM - 10:50AM
+  Thursday
+    9:30AM - 10:50AM
+
+Boca Raton AL247
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM
+  Wednesday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM
+  Thursday
+    5:00PM - 6:40PM
+  Friday
+    7:00AM - 8:00AM  
+    10:00AM - 10:50AM
+
+Boca Raton AL248
+  Monday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    5:00PM - 6:50PM
+  Tuesday
+    8:00AM - 8:50AM  
+    3:00PM - 4:50PM
+  Wednesday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM
+  Thursday
+    8:00AM - 8:50AM  
+    2:00PM - 4:50PM
+  Friday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM
+
+Boca Raton AL260
+  Monday
+    8:00AM - 8:50AM  
+    10:00AM - 10:50AM  
+    3:00PM - 4:50PM  
+    5:00PM - 7:30PM
+  Tuesday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 2:50PM  
+    1:30PM - 3:20PM  
+    3:00PM - 4:50PM  
+    3:30PM - 4:50PM  
+    5:00PM - 6:50PM
+  Wednesday
+    8:00AM - 8:50AM  
+    10:00AM - 10:50AM  
+    3:00PM - 4:50PM  
+    5:00PM - 7:30PM
+  Thursday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 2:50PM  
+    1:30PM - 3:20PM  
+    3:00PM - 4:50PM  
+    3:30PM - 4:50PM
+  Friday
+    11:00AM - 11:50AM  
+    2:00PM - 2:50PM  
+    3:00PM - 4:50PM  
+    5:00PM - 7:30PM
+
+Boca Raton AL219
+  Monday
+    7:00AM - 8:00AM  
+    10:00AM - 10:50AM  
+    1:30PM - 2:50PM  
+    3:00PM - 4:50PM
+  Tuesday
+    10:00AM - 10:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM  
+    7:30PM - 9:30PM
+  Wednesday
+    10:00AM - 10:50AM  
+    1:30PM - 2:50PM  
+    3:00PM - 4:50PM  
+    5:00PM - 6:30PM
+  Thursday
+    10:00AM - 10:50AM  
+    12:30PM - 1:50PM  
+    2:00PM - 3:50PM
+  Friday
+    12:00PM - 12:50PM  
+    3:00PM - 4:50PM
+
+Boca Raton AL246
+  Tuesday
+    10:00AM - 10:50AM
+  Thursday
+    10:00AM - 10:50AM
+
+Boca Raton AH115
+  Thursday
+    9:30AM - 10:20AM
+
+Boca Raton AL348
+  Monday
+    9:00AM - 10:20AM  
+    3:00PM - 4:20PM  
+    5:00PM - 6:50PM
+  Tuesday
+    8:00AM - 9:20AM  
+    11:00AM - 12:20PM
+  Wednesday
+    9:00AM - 10:20AM  
+    3:00PM - 4:20PM
+  Thursday
+    8:00AM - 9:20AM  
+    11:00AM - 12:20PM
+  Friday
+    3:00PM - 4:50PM
+
+Boca Raton AL207
+  Monday
+    9:30AM - 10:50AM  
+    1:00PM - 2:50PM
+  Wednesday
+    9:30AM - 10:50AM  
+    1:00PM - 2:50PM
+  Friday
+    9:00AM - 11:50AM  
+    1:00PM - 2:50PM
+
+Boca Raton AL133
+  Thursday
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    5:00PM - 6:50PM
+
+Boca Raton AL231
+  Monday
+    8:00AM - 9:00AM
+  Friday
+    12:00PM - 1:50PM
+
+Boca Raton AL254
+  Monday
+    8:00AM - 9:00AM
+  Wednesday
+    2:00PM - 2:50PM
+
+Boca Raton AL250
+  Monday
+    8:00AM - 9:00AM
+  Thursday
+    10:00AM - 10:50AM
+
+Boca Raton AH117
+  Monday
+    9:00AM - 9:50AM
+  Tuesday
+    9:00AM - 9:50AM
+  Thursday
+    9:00AM - 9:50AM
+  Friday
+    1:00PM - 1:50PM
+
+Boca Raton AL134
+  Tuesday
+    2:00PM - 2:50PM
+
+Boca Raton AH113
+  Monday
+    8:00AM - 8:50AM  
+    10:00AM - 10:50AM
+  Tuesday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM
+  Wednesday
+    8:00AM - 8:50AM  
+    10:00AM - 10:50AM
+  Thursday
+    8:00AM - 8:50AM  
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM
+
+Boca Raton NU209
+  Thursday
+    5:00PM - 7:50PM
+  Sunday
+    8:00AM - 1:00PM
+  Saturday
+    8:00AM - 1:00PM  
+    2:00PM - 4:00PM
+
+Boca Raton NU205
+  Sunday
+    2:00PM - 7:00PM
+  Saturday
+    2:00PM - 7:00PM
+
+Boca Raton NU201
+  Tuesday
+    8:00AM - 11:50AM
+  Thursday
+    8:00AM - 9:50AM
+  Sunday
+    9:00AM - 2:00PM
+
+Boca Raton NU108
+  Sunday
+    8:30AM - 10:20AM  
+    10:30AM - 12:30PM
+
+Boca Raton NU218
+  Monday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    1:00PM - 2:50PM  
+    3:00PM - 4:50PM
+  Tuesday
+    8:00AM - 11:50AM  
+    10:00AM - 11:50AM  
+    1:00PM - 2:50PM  
+    1:00PM - 4:50PM  
+    3:00PM - 4:50PM
+  Friday
+    8:00AM - 11:50AM  
+    1:00PM - 4:50PM
+
+Jupiter HC165
+  Monday
+    1:00PM - 3:50PM
+  Tuesday
+    5:30PM - 8:20PM
+  Thursday
+    5:30PM - 8:20PM
+
+Harbor Branch MC210
+  Saturday
+    9:00AM - 5:00PM
+
+Boca Raton AH205
+  Friday
+    2:00PM - 2:50PM
+
+Jupiter AD102
+  Monday
+    2:00PM - 3:50PM
+  Tuesday
+    2:00PM - 3:50PM
+  Wednesday
+    2:00PM - 3:50PM
+  Thursday
+    2:00PM - 3:50PM
+  Friday
+    9:00AM - 10:50AM  
+    11:00AM - 12:50PM  
+    1:00PM - 2:50PM  
+    3:00PM - 4:50PM
+
+Davie DW103
+  Tuesday
+    11:00AM - 12:20PM
+  Wednesday
+    9:30AM - 10:50AM
+  Thursday
+    11:00AM - 12:20PM
+  Friday
+    9:30AM - 10:50AM
+
+Davie ES314
+  Tuesday
+    1:00PM - 2:50PM
+  Thursday
+    1:00PM - 2:50PM  
+    3:00PM - 4:50PM
+
+Davie DW421
+  Tuesday
+    11:00AM - 12:50PM
+  Thursday
+    11:00AM - 12:50PM
+
+Jupiter RE201
+  Tuesday
+    11:00AM - 12:50PM
+  Thursday
+    11:00AM - 12:50PM
+
+Boca Raton BC214
+  Wednesday
+    1:00PM - 3:50PM
+
+Boca Raton SO383
+  Monday
+    11:00AM - 1:50PM
+
+Boca Raton SE101
+  Monday
+    2:00PM - 4:50PM  
+    4:00PM - 5:20PM
+  Tuesday
+    4:00PM - 5:20PM
+  Wednesday
+    4:00PM - 5:20PM
+  Thursday
+    2:00PM - 2:50PM  
+    4:00PM - 5:20PM
+  Friday
+    2:00PM - 3:00PM
+
+Boca Raton PS149
+  Tuesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Wednesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Thursday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Friday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM
+
+Boca Raton PS151
+  Tuesday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Wednesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Thursday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Friday
+    10:00AM - 11:50AM
+
+Boca Raton PS150
+  Tuesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Wednesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Thursday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM  
+    4:00PM - 5:50PM
+  Friday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM
+
+Boca Raton PS152
+  Tuesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM
+  Wednesday
+    8:00AM - 9:50AM  
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM
+  Thursday
+    10:00AM - 11:50AM  
+    12:00PM - 1:50PM  
+    2:00PM - 3:50PM
+  Friday
+    10:00AM - 11:50AM
+
+Boca Raton SE319
+  Monday
+    11:00AM - 12:20PM
+  Tuesday
+    10:30AM - 12:20PM  
+    3:00PM - 4:20PM
+  Thursday
+    10:30AM - 12:20PM  
+    3:00PM - 4:20PM
+  Friday
+    11:00AM - 12:20PM
+
+Boca Raton PS125
+  Monday
+    9:00AM - 10:50AM
+
+Davie ES120
+  Tuesday
+    7:10PM - 10:00PM
+  Wednesday
+    7:10PM - 10:00PM
+  Thursday
+    4:00PM - 6:50PM
+
+Boca Raton HS112
+  Monday
+    11:00AM - 11:50AM
+  Tuesday
+    11:00AM - 11:50AM
+  Wednesday
+    11:00AM - 11:50AM
+  Thursday
+    11:00AM - 11:50AM
+  Friday
+    11:00AM - 11:50AM
+
+Boca Raton BS103
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM
+  Tuesday
+    2:00PM - 3:20PM
+  Thursday
+    2:00PM - 3:20PM
+  Friday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    2:00PM - 2:50PM
+
+Jupiter SR278
+  Thursday
+    2:00PM - 4:50PM
+
+Boca Raton SU222
+  Monday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    3:00PM - 3:50PM  
+    4:00PM - 4:50PM
+  Tuesday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    3:00PM - 3:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    3:00PM - 3:50PM  
+    4:00PM - 4:50PM
+  Thursday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    3:00PM - 3:50PM
+
+Boca Raton IR109
+  Monday
+    10:00AM - 10:50AM  
+    3:00PM - 3:50PM
+  Tuesday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    3:00PM - 3:50PM  
+    4:00PM - 4:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM  
+    3:00PM - 4:50PM
+  Thursday
+    9:00AM - 9:50AM  
+    10:00AM - 10:50AM  
+    3:00PM - 3:50PM  
+    4:00PM - 4:50PM
+  Friday
+    10:00AM - 10:50AM  
+    11:00AM - 11:50AM
+
+Boca Raton HP114
+  Monday
+    10:00AM - 10:50AM  
+    4:00PM - 4:50PM
+  Tuesday
+    11:00AM - 11:50AM  
+    2:00PM - 2:50PM
+  Wednesday
+    9:00AM - 9:50AM  
+    3:00PM - 4:50PM
+  Thursday
+    9:00AM - 9:50AM  
+    11:00AM - 11:50AM  
+    2:00PM - 2:50PM
+
+Boca Raton GP101
+  Monday
+    10:00AM - 10:50AM  
+    4:00PM - 4:50PM
+  Tuesday
+    10:00AM - 10:50AM
+  Wednesday
+    3:00PM - 4:50PM
+
+Boca Raton SO111
+  Monday
+    1:00PM - 3:50PM  
+    4:00PM - 6:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    1:00PM - 3:50PM  
+    7:00PM - 9:50PM
+  Wednesday
+    1:00PM - 3:50PM  
+    4:00PM - 6:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    1:00PM - 3:50PM  
+    4:00PM - 6:50PM  
+    7:00PM - 9:50PM
+  Saturday
+    9:30AM - 12:20PM
+
+Boca Raton SO301
+  Monday
+    9:00AM - 11:50AM  
+    1:00PM - 3:50PM  
+    4:00PM - 6:50PM
+  Tuesday
+    9:00AM - 11:50AM  
+    1:00PM - 3:50PM  
+    4:00PM - 6:50PM
+  Wednesday
+    9:00AM - 11:50AM  
+    4:00PM - 6:50PM  
+    7:00PM - 9:50PM
+  Thursday
+    4:00PM - 6:50PM  
+    7:00PM - 9:50PM
+
+Boca Raton SO307
+  Monday
+    4:00PM - 6:50PM
+  Tuesday
+    7:00PM - 9:50PM
+  Wednesday
+    1:00PM - 3:50PM  
+    4:00PM - 6:50PM  
+    7:00PM - 9:50PM
+  Thursday
+    4:00PM - 6:50PM
+
+Boca Raton SO305
+  Monday
+    4:00PM - 6:50PM
+  Wednesday
+    4:00PM - 6:50PM  
+    7:00PM - 9:50PM
+  Thursday
+    4:00PM - 6:50PM
+
+Boca Raton SO304
+  Thursday
+    4:00PM - 6:50PM
+
+Boca Raton SO303
+  Wednesday
+    9:00AM - 11:50AM
+
+Davie DW107
+  Tuesday
+    12:30PM - 3:20PM
+
+Boca Raton HS113
+  Monday
+    8:00AM - 8:50AM  
+    9:30AM - 10:20AM  
+    1:00PM - 1:50PM
+  Tuesday
+    8:00AM - 8:50AM  
+    9:30AM - 10:20AM  
+    1:00PM - 1:50PM
+  Wednesday
+    8:00AM - 8:50AM  
+    9:30AM - 10:20AM  
+    1:00PM - 1:50PM
+  Thursday
+    8:00AM - 8:50AM  
+    9:30AM - 10:20AM  
+    1:00PM - 1:50PM
+  Friday
+    8:00AM - 8:50AM  
+    9:30AM - 10:20AM  
+    1:00PM - 1:50PM
+
+Boca Raton CU249
+  Monday
+    4:00PM - 6:50PM
+  Tuesday
+    4:00PM - 6:50PM
+  Thursday
+    4:20PM - 7:00PM
+
+Boca Raton PA103
+  Monday
+    10:00AM - 3:20PM  
+    1:00PM - 5:50PM  
+    3:30PM - 5:50PM
+  Tuesday
+    10:00AM - 12:20PM  
+    1:00PM - 3:20PM  
+    3:30PM - 5:50PM
+  Wednesday
+    10:00AM - 12:20PM  
+    1:00PM - 3:20PM  
+    3:30PM - 5:50PM
+  Thursday
+    10:00AM - 12:20PM  
+    1:00PM - 3:20PM  
+    3:30PM - 5:50PM
+  Friday
+    10:00AM - 12:20PM  
+    1:00PM - 3:20PM
+
+Boca Raton PA109
+  Monday
+    10:00AM - 12:50PM
+  Tuesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Wednesday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+  Thursday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    2:00PM - 3:20PM
+  Friday
+    9:30AM - 10:50AM  
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM
+
+Boca Raton AL105
+  Tuesday
+    9:30AM - 10:50AM
+  Thursday
+    9:30AM - 10:50AM
+
+Boca Raton PA107
+  Monday
+    11:00AM - 12:20PM  
+    12:30PM - 3:20PM
+  Tuesday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    3:30PM - 4:50PM
+  Wednesday
+    11:00AM - 12:20PM  
+    12:30PM - 2:50PM  
+    3:30PM - 4:50PM
+  Thursday
+    11:00AM - 12:20PM  
+    12:30PM - 1:50PM  
+    3:30PM - 4:50PM
+  Friday
+    11:00AM - 12:20PM  
+    12:30PM - 2:50PM  
+    3:30PM - 4:50PM
+
+Boca Raton AH112
+  Tuesday
+    11:00AM - 12:20PM
+  Thursday
+    11:00AM - 12:20PM
+
+Boca Raton SO276
+  Monday
+    10:00AM - 12:50PM  
+    6:30PM - 9:20PM
+  Tuesday
+    1:00PM - 3:50PM  
+    6:30PM - 9:20PM
+  Thursday
+    6:30PM - 9:20PM
+  Friday
+    9:00AM - 11:50AM  
+    1:00PM - 3:50PM  
+    3:00PM - 5:50PM  
+    6:30PM - 9:20PM
+
+Boca Raton SO285
+  Thursday
+    6:30PM - 9:20PM

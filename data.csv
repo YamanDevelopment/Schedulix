@@ -1,0 +1,298 @@
+﻿Campus,Building,Room,RoomType,StudentCapacity,ZoomEnabled,VideoConf,Mediasite,AudienceMicrophones,AudienceCamera
+Boca,AC,117,Classroom,29,No,No,No,No,No
+Boca,AC,118,Classroom,20,No,No,No,No,No
+Boca,AC,119,Classroom,23,No,No,No,No,No
+Boca,AC,122,Auditorium,102,Yes,No,No,No,No
+Boca,AH,104,Conference Room,18,No,No,No,No,No
+Boca,AH,113,Music Lab,17,Yes,No,No,No,No
+Boca,AH,204,Classroom,24,No,No,No,No,No
+Boca,AH,205,Conference Room,25,No,No,No,No,No
+Boca,AH,206,Instructional Computer Lab,22,No,No,No,No,No
+Boca,AL,102,Stage,97,Yes,No,No,No,No
+Boca,AL,189,Classroom,115,Yes,No,No,Yes,No
+Boca,AL,207,Auditorium,256,No,No,No,No,No
+Boca,AL,219,Classroom,137,Yes,No,No,No,No
+Boca,AL,240,Instructional Computer Lab,34,No,No,No,No,No
+Boca,AL,242,Classroom,38,No,No,No,No,No
+Boca,AL,247,Classroom,39,Yes,No,No,No,No
+Boca,AL,248,Classroom,50,No,No,No,No,No
+Boca,AL,260,Classroom,103,Yes,No,No,No,No
+Boca,AL,337,Video Production Lab,25,No,No,No,No,No
+Boca,AL,338,Classroom,49,No,No,No,No,No
+Boca,AL,342,Classroom,36,No,No,No,No,No
+Boca,AL,343,Classroom,35,No,No,No,No,No
+Boca,AL,344,Classroom,40,No,No,No,No,No
+Boca,AL,345,Classroom,48,No,No,No,No,No
+Boca,AL,346,Instructional Computer Lab,27,No,No,No,No,No
+Boca,AL,348,Instructional Computer Lab,24,No,No,No,No,No
+Boca,BC,106,Study Room,22,No,No,No,No,No
+Boca,BC,108,Study Room,20,No,No,No,No,No
+Boca,BC,126,Auditorium,115,Yes,Yes,Yes,No,Yes
+Boca,BC,128,Classroom,82,Yes,Yes,Yes,No,Yes
+Boca,BC,130,Classroom,80,Yes,Yes,Yes,No,Yes
+Boca,BS,103,Classroom,42,Yes,Yes,No,No,No
+Boca,BS,105,Conference Room,20,Yes,No,No,Yes,Yes
+Boca,BS,108,Open Computer Lab,63,No,No,No,No,No
+Boca,BS,303,Classroom,30,Yes,Yes,No,No,No
+Boca,BU,101,Classroom,40,Yes,No,Yes,Yes,Yes
+Boca,BU,102,Classroom,20,No,No,No,No,No
+Boca,BU,104,Classroom,32,Yes,No,No,Yes,No
+Boca,BU,105,Classroom,32,Yes,No,No,Yes,No
+Boca,BU,109,Classroom,80,Yes,No,No,No,No
+Boca,BU,112,Classroom,23,No,No,No,No,No
+Boca,BU,120,Auditorium,288,Yes,No,No,No,No
+Boca,BU,201,Open Computer Lab,44,No,No,No,No,No
+Boca,BU,207,Classroom,40,Yes,No,No,No,No
+Boca,BU,208,Classroom,40,Yes,No,No,Yes,No
+Boca,BU,210,Classroom,23,No,No,No,No,No
+Boca,BU,302,Classroom,40,No,No,Yes,No,No
+Boca,BU,303,Classroom,40,No,No,Yes,No,No
+Boca,BU,307,Classroom,40,No,No,No,No,No
+Boca,BU,308,Classroom,40,No,No,No,No,No
+Boca,BU,321,Conference Room,25,Yes,No,No,Yes,Yes
+Boca,BU,401,Instructional Computer Lab,37,No,No,No,No,No
+Boca,BU,402,Classroom,22,No,No,No,No,No
+Boca,BU,403,Classroom,26,No,No,No,No,No
+Boca,BU,405,Instructional Computer Lab,40,No,No,No,No,No
+Boca,BU,409,Classroom,40,No,No,No,No,No
+Boca,BU,410,Classroom,40,No,No,No,No,No
+Boca,BU,411,Classroom,24,No,No,No,No,No
+Boca,CE,102,Classroom,22,No,No,No,No,No
+Boca,CE,103,Classroom,22,No,No,No,No,No
+Boca,CM,125,Classroom,30,Yes,Yes,Yes,Yes,Yes
+Boca,CM,127,Conference Room,12,No,No,No,No,No
+Boca,CM,128,Classroom,30,Yes,No,Yes,Yes,No
+Boca,CM,130,Classroom,40,Yes,Yes,Yes,Yes,Yes
+Boca,CM,133,Conference Room,32,Yes,Yes,No,Yes,Yes
+Boca,CM,142,Open Computer Lab,52,No,No,No,No,No
+Boca,CM,146,Instructional Computer Lab,32,Yes,No,No,No,No
+Boca,CM,212,Conference Room,6,Yes,No,No,No,No
+Boca,CM,251,Conference Room,10,Yes,No,No,No,No
+Boca,CM,262,Conference Room,6,Yes,No,No,No,No
+Boca,CO,118,Conference Room,32,No,Yes,No,No,No
+Boca,CR,174,Classroom,70,Yes,No,No,Yes,No
+Boca,CU,107,Theatre,46,No,No,No,No,No
+Boca,CU,109,Theatre,46,No,No,No,No,No
+Boca,CU,110,Theatre,46,No,No,No,No,No
+Boca,CU,118,Classroom,28,No,No,No,No,No
+Boca,CU,119,Classroom,24,No,No,No,No,No
+Boca,CU,120,Classroom,28,No,No,No,No,No
+Boca,CU,121,Classroom,28,No,No,No,No,No
+Boca,CU,122,Classroom,26,No,No,No,No,No
+Boca,CU,123,Classroom,26,No,No,No,No,No
+Boca,CU,124,Classroom,26,No,No,No,No,No
+Boca,CU,125,Classroom,26,No,No,No,No,No
+Boca,CU,126,Classroom,28,No,No,No,No,No
+Boca,CU,127,Classroom,26,No,No,No,No,No
+Boca,CU,128,Classroom,28,Yes,No,No,No,No
+Boca,CU,129,Classroom,28,Yes,No,No,No,No
+Boca,CU,130,Classroom,24,No,No,No,No,No
+Boca,CU,131,Classroom,28,Yes,No,No,No,No
+Boca,CU,249,Conference Room,19,No,No,No,No,No
+Boca,CU,321,Classroom,18,No,No,No,No,No
+Boca,CU,321A,Classroom,15,No,No,No,No,No
+Boca,ED,111,Classroom,24,No,No,No,No,No
+Boca,ED,112,Classroom,38,No,No,No,No,No
+Boca,ED,113, Classroom,37,No,No,No,No,No
+Boca,ED,114,Classroom,37,No,No,No,No,No
+Boca,ED,115,Classroom,44,Yes,No,No,No,No
+Boca,ED,116,Classroom,41,Yes,No,No,No,No
+Boca,ED,118,Classroom,41,Yes,No,No,No,No
+Boca,ED,119,Auditorium,138,Yes,No,Yes,No,No
+Boca,ED,120,Classroom,36,Yes,No,No,No,No
+Boca,ED,123,Classroom,50,Yes,No,No,Yes,No
+Boca,ED,124,Classroom,46,Yes,No,No,No,No
+Boca,ED,125,Classroom,32,No,No,No,No,No
+Boca,ED,313,Classroom,43,No,Yes,No,Yes,No
+Boca,ED,332,Classroom,30,No,Yes,No,No,No
+Boca,ED,333,Classroom,35,No,No,No,No,No
+Boca,ED,457,Classroom,30,No,No,No,No,No
+Boca,ED,464,Classroom,25,No,No,No,No,No
+Boca,EE,106,Classroom,96,Yes,Yes,Yes,Yes,Yes
+Boca,EE,203,Engineering Lab,60,No,No,No,No,No
+Boca,EE,207,Engineering Lab,60,Yes,No,Yes,No,No
+Boca,EE,208,Engineering Lab,34,Yes,No,No,No,No
+Boca,EE,209,Engineering Lab,20,No,No,No,No,No
+Boca,EE,210,Engineering Lab,49,Yes,No,No,No,No
+Boca,EE,213,Instructional Computer Lab,37,No,No,No,No,No
+Boca,EE,405,Conference Room,18,No,Yes,No,Yes,Yes
+Boca,EE,303C,Conference Room,22,No,Yes,No,Yes,Yes
+Boca,EE,408A,Engineering Lab,15,No,No,No,No,No
+Boca,EE,408B,Engineering Lab,15,No,No,No,No,No
+Boca,EG,132,Lab,20,Yes,No,No,No,No
+Boca,EG,162,Classroom,50,Yes,No,No,No,No
+Boca,EG,170,Conference Room,10,No,No,No,No,No
+Boca,EG,187,Conference Room,19,No,No,No,No,No
+Boca,EG,262,Lab,25,Yes,No,No,No,No
+Boca,EG,263,Lab,27,Yes,No,No,No,No
+Boca,FA,103,Classroom,32,No,No,No,No,No
+Boca,FA,104,Classroom,30,No,No,No,No,No
+Boca,FA,105,Classroom,32,No,No,No,No,No
+Boca,FL,401,Classroom,45,Yes,No,Yes,Yes,No
+Boca,FL,404,Classroom,49,Yes,No,Yes,Yes,No
+Boca,FL,409,Instructional Computer Lab,33,No,No,No,Yes,No
+Boca,FL,411,Instructional Computer Lab,33,Yes,No,Yes,Yes,No
+Boca,FL,423,Classroom,46,No,No,No,No,No
+Boca,FL,424,Classroom,48,Yes,No,Yes,Yes,No
+Boca,FL,426,Classroom,30,No,No,No,No,No
+Boca,FL,427,Classroom,45,Yes,No,Yes,Yes,No
+Boca,FL,429, Classroom,51,No,No,No,No,No
+Boca,GN,101,Auditorium,295,Yes,No,Yes,No,No
+Boca,GN,102,Auditorium,149,Yes,No,No,No,No
+Boca,GP,101,Classroom,40,No,No,No,No,No
+Boca,GS,101,Classroom,65,Yes,No,No,No,No
+Boca,GS,102,Classroom,68,Yes,No,No,Yes,No
+Boca,GS,103,Classroom,60,Yes,No,No,Yes,No
+Boca,GS,107,Classroom,56,Yes,No,No,No,No
+Boca,GS,108,Classroom,45,No,No,No,No,No
+Boca,GS,109,Classroom,64,Yes,No,No,No,No
+Boca,GS,110,Classroom,45,No,No,No,No,No
+Boca,GS,111,Classroom,55,Yes,No,No,No,No
+Boca,GS,115,Classroom,64,Yes,No,No,No,No
+Boca,GS,116,Classroom,78,Yes,No,No,No,No
+Boca,GS,117,Classroom,62,Yes,No,No,No,No
+Boca,GS,118,Auditorium,104,Yes,No,No,No,No
+Boca,GS,119,Auditorium,130,Yes,No,Yes,No,No
+Boca,GS,120,Auditorium,104,Yes,No,No,No,No
+Boca,GS,202,Classroom,32,No,No,No,No,No
+Boca,GS,208,Classroom,50,No,No,No,No,No
+Boca,GS,211,Study Space,43,No,No,No,No,No
+Boca,GS,215,Study Space,32,No,No,No,No,No
+Boca,GS,216,Study Space,47,No,No,No,No,No
+Boca,GS,222,Classroom,42,No,No,No,No,No
+Boca,GS,226,Classroom,59,No,No,No,No,No
+Boca,GS,214B,Conference Room,17,No,Yes,No,Yes,Yes
+Boca,GY,102,Gym,2280,No,No,No,No,No
+Boca,HP,114,Classroom,40,No,No,No,No,No
+Boca,IR,109,Classroom,27,No,No,No,No,No
+Boca,IS,103,Classroom,55,Yes,No,No,No,No
+Boca,IS,113,Instructional Computer Lab,39,Yes,No,No,Yes,No
+Boca,IS,208,Classroom,32,Yes,No,No,No,No
+Boca,IS,114A,Conference Room,25,No,No,No,No,No
+Boca,KH,102,Auditorium,200,Yes,Yes,No,Yes,No
+Boca,LY,136,Instructional Computer Lab,54,No,No,No,No,No
+Boca,LY,201,Open Computer Lab,15,No,No,No,No,No
+Boca,LY,551,Conference Room,20,Yes,Yes,No,No,No
+Boca,ME,104,Conference Room,0,Yes,Yes,No,Yes,No
+Boca,NU,108,Classroom,42,Yes,No,No,No,No
+Boca,NU,113,Auditorium,346,Yes,No,No,No,No
+Boca,NU,201,Classroom,84,Yes,Yes,No,Yes,Yes
+Boca,NU,202,Classroom,80,Yes,Yes,No,Yes,Yes
+Boca,NU,205,Classroom,28,No,No,No,No,No
+Boca,NU,209,Classroom,24,No,No,No,No,No
+Boca,OD,101,Classroom,83,Yes,No,Yes,Yes,Yes
+Boca,OD,102,Classroom,40,No,No,No,No,No
+Boca,OD,103,Classroom,39,No,No,No,No,No
+Boca,OD,202,Classroom,40,Yes,No,Yes,Yes,No
+Boca,OD,203,Classroom,38,Yes,No,Yes,Yes,Yes
+Boca,PA,101,Auditorium,169,Yes,No,No,No,No
+Boca,PA,103,Stage,25,Yes,No,No,No,No
+Boca,PA,107,Acting Studio,49,No,No,No,No,No
+Boca,PA,109,Classroom,25,No,No,No,No,No
+Boca,PH,111A,Classroom,25,No,No,No,No,No
+Boca,PH,111B,Classroom,25,No,No,No,No,No
+Boca,PS,109,Classroom,50,No,No,No,No,No
+Boca,PS,111,Classroom,36,No,No,No,No,No
+Boca,PS,112,Classroom,44,No,No,No,No,No
+Boca,PS,113,Classroom,36,No,No,No,No,No
+Boca,PS,125,Lab,12,Yes,No,No,No,No
+Boca,PS,130,Lab,7,Yes,No,No,No,No
+Boca,PS,149,Lab,18,Yes,No,No,No,No
+Boca,PS,150,Lab,18,Yes,No,No,No,No
+Boca,PS,151,Lab,18,Yes,No,No,No,No
+Boca,PS,152,Lab,18,Yes,No,No,No,No
+Boca,PS,204,Lab,24,Yes,No,No,No,No
+Boca,PS,206,Lab,24,Yes,No,No,No,No
+Boca,PS,209,Lab,24,Yes,No,No,No,No
+Boca,PS,210,Lab,24,Yes,No,No,No,No
+Boca,PS,226,Classroom,16,Yes,Yes,No,Yes,Yes
+Boca,PS,227,Classroom,60,No,No,No,No,No
+Boca,PS,334,Instructional Computer Lab,41,Yes,No,No,No,No
+Boca,PS,337,Classroom,46,Yes,No,No,No,No
+Boca,SC,107,Lab,18,Yes,No,No,No,No
+Boca,SC,108,Lab,25,Yes,No,No,No,No
+Boca,SC,115,Lab,26,Yes,No,No,No,No
+Boca,SC,116,Lab,24,Yes,No,No,No,No
+Boca,SC,119,Classroom,34,Yes,No,No,No,No
+Boca,SC,141,Classroom,31,Yes,Yes,No,Yes,Yes
+Boca,SC,143,Lab,24,Yes,No,No,No,No
+Boca,SC,144,Lab,24,Yes,No,No,No,No
+Boca,SC,145,Lab,24,Yes,No,No,No,No
+Boca,SC,146,Lab,24,Yes,No,No,No,No
+Boca,SC,178,Classroom,40,No,No,No,No,No
+Boca,SC,179,Classroom,40,No,No,No,No,No
+Boca,SC,180,Classroom,62,Yes,No,No,No,No
+Boca,SE,150,Instructional Computer Lab,50,Yes,No,No,No,No
+Boca,SE,215,Classroom,28,No,No,No,No,No
+Boca,SE,271,Instructional Computer Lab,30,No,No,No,No,No
+Boca,SE,314,Instructional Computer Lab,37,No,No,No,No,No
+Boca,SE,319,Physics Lab,28,No,No,No,No,No
+Boca,SE,319B,Classroom,38,No,No,No,No,No
+Boca,SE,330,Open Computer Lab,46,No,No,No,No,No
+Boca,SE,340,Open Computer Lab,47,No,No,No,No,No
+Boca,SE,350,Open Computer Lab,49,No,No,No,No,No
+Boca,SE,417,Classroom,50,No,No,No,No,No
+Boca,SE,421,Lab,34,Yes,No,No,No,No
+Boca,SE,435,Lab,15,Yes,No,No,No,No
+Boca,SE,457,Lab,45,Yes,No,No,No,No
+Boca,SE,483,Classroom,21,No,No,No,No,No
+Boca,SF,107,Auditorium,144,Yes,No,Yes,No,No
+Boca,SF,109,Classroom,45,Yes,No,Yes,Yes,No
+Boca,SF,110,Classroom,45,Yes,No,Yes,Yes,No
+Boca,SF,111,Classroom,45,Yes,No,Yes,Yes,No
+Boca,SF,112,Instructional Computer Lab,45,Yes,No,Yes,Yes,No
+Boca,SF,114,Instructional Computer Lab,45,Yes,No,Yes,Yes,No
+Boca,SF,116,Instructional Computer Lab,45,Yes,No,Yes,Yes,No
+Boca,SF,118,Classroom,45,Yes,No,Yes,Yes,No
+Boca,SF,122,Classroom,45,Yes,No,Yes,Yes,No
+Boca,SF,127,Active Learning Classroom,80,Yes,No,Yes,Yes,No
+Boca,SF,128,Active Learning Classroom,200,Yes,No,Yes,Yes,No
+Boca,SF,146,Classroom,79,No,No,No,No,No
+Boca,SF,146B,Science Lab,22,No,No,No,No,No
+Boca,SF,146C,Science Lab,148,No,No,No,No,No
+Boca,SF,146D,Science Lab,49,No,No,No,No,No
+Boca,SF,147A,Open Computer Lab,52,No,No,No,No,No
+Boca,SF,147B,Conference room,22,No,No,No,No,No
+Boca,SF,147C,Conference Room,24,No,No,No,No,No
+Boca,SF,148,Open Computer Lab,33,No,No,No,No,No
+Boca,SF,152,Classroom,64,No,No,No,No,No
+Boca,SF,158G,Conference Room,18,Yes,No,No,No,No
+Boca,SF,164,Classroom,31,No,No,No,No,No
+Boca,SF,165,Classroom,29,No,No,No,No,No
+Boca,SF,166,Classroom,29,No,No,No,No,No
+Boca,SF,169,Auditorium,66,No,No,No,No,No
+Boca,SF,170,Classroom,140,No,No,No,No,No
+Boca,SF,173,Classroom,21,No,No,No,No,No
+Boca,SF,180,Classroom,21,No,No,No,No,No
+Boca,SF,183,Classroom,10,No,No,No,No,No
+Boca,SF,184,Classroom,10,No,No,No,No,No
+Boca,SO,111,Classroom,48,Yes,No,No,No,No
+Boca,SO,112,Auditorium,75,Yes,No,No,No,No
+Boca,SO,170,Classroom,55,Yes,No,No,Yes,No
+Boca,SO,190,Classroom,50,Yes,No,No,No,No
+Boca,SO,200,Instructional Computer Lab,46,Yes,No,No,No,No
+Boca,SO,207,Classroom,55,Yes,No,No,No,No
+Boca,SO,250,Auditorium,246,Yes,No,No,No,No
+Boca,SO,270,Classroom,80,Yes,No,No,No,No
+Boca,SO,276,Instructional Computer Lab,30,Yes,No,No,No,No
+Boca,SO,301,Classroom,40,No,No,No,No,No
+Boca,SO,303,Classroom,20,No,No,No,No,No
+Boca,SO,304,Classroom,28,No,No,No,No,No
+Boca,SO,305,Classroom,40,No,No,No,No,No
+Boca,SO,307,Classroom,32,No,No,No,No,No
+Boca,SO,370,Classroom,32,No,No,No,No,No
+Boca,SO,377,Conference room,18,No,No,No,No,No
+Boca,SO,385,Classroom,30,No,No,No,No,No
+Boca,SO,390,Classroom,28,No,No,No,No,No
+Boca,SS,229A,Conference room,12,Yes,No,No,Yes,No
+Boca,SU,132,Conference room,36,Yes,No,No,Yes,No
+Boca,SU,228J,Conference room,17,Yes,No,No,No,No
+Boca,T6,_08A,Design Studio,32,Yes,No,No,No,No
+Boca,T6,_08B,Design Studio,32,Yes,No,No,No,No
+Boca,UN,227,Clubhouse,16,No,No,No,No,No
+Boca,VA,104,Lab,23,Yes,No,No,No,No
+Boca,VA,105,Lab,11,Yes,No,No,No,No
+Boca,VA,106,Lab,29,Yes,No,No,No,No
+Boca,VA,107,Lab,10,Yes,No,No,No,No
+Boca,VA,112,Lab,12,Yes,No,No,No,No
+Boca,VA,115,Art Lab,20,Yes,No,No,No,No
