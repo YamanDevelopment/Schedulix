@@ -56,10 +56,7 @@ func main() {
 	if err := gocsv.UnmarshalFile(p, &data); err != nil { // Load clients from file
 		panic(err)
 	}
-	//+
-	// generate room structs
-	//mp := make([]Room)
-
+	//
 }
 
 func strtoTime(a string) (time.Time, error) {
