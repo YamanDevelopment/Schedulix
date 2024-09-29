@@ -33,7 +33,83 @@
     "VideoConf": false,
     "Mediasite": false,
     "AudienceMicrophones": false,
-    "AudienceCamera": false
+    "AudienceCamera": false,
+    "schedule": {
+      "Monday": [
+        {
+          "start": "8:00AM",
+          "end": "9:30AM"
+        },
+        {
+          "start": "10:00AM",
+          "end": "11:20AM"
+        },
+        {
+          "start": "1:00PM",
+          "end": "2:50PM"
+        }
+      ],
+      "Tuesday": [
+        {
+          "start": "8:00AM",
+          "end": "9:20AM"
+        },
+        {
+          "start": "11:00AM",
+          "end": "12:20PM"
+        },
+        {
+          "start": "1:00PM",
+          "end": "2:20PM"
+        },
+        {
+          "start": "2:30PM",
+          "end": "3:50PM"
+        }
+      ],
+      "Wednesday": [
+        {
+          "start": "8:00AM",
+          "end": "9:30AM"
+        },
+        {
+          "start": "10:00AM",
+          "end": "11:20AM"
+        },
+        {
+          "start": "11:30AM",
+          "end": "12:50PM"
+        },
+        {
+          "start": "1:00PM",
+          "end": "2:50PM"
+        }
+      ],
+      "Thursday": [
+        {
+          "start": "8:00AM",
+          "end": "9:20AM"
+        },
+        {
+          "start": "11:00AM",
+          "end": "12:20PM"
+        },
+        {
+          "start": "1:00PM",
+          "end": "2:20PM"
+        },
+        {
+          "start": "2:30PM",
+          "end": "3:50PM"
+        }
+      ],
+      "Friday": [
+        {
+          "start": "9:00AM",
+          "end": "10:50AM"
+        }
+      ]
+    }
   },
   "AC122": {
     "Campus": "Boca",
@@ -45,7 +121,79 @@
     "VideoConf": false,
     "Mediasite": false,
     "AudienceMicrophones": false,
-    "AudienceCamera": false
+    "AudienceCamera": false,
+    "schedule": {
+      "Monday": [
+        {
+          "start": "7:00PM",
+          "end": "7:50PM"
+        }
+      ],
+      "Tuesday": [
+        {
+          "start": "9:30AM",
+          "end": "10:50AM"
+        },
+        {
+          "start": "11:00AM",
+          "end": "12:20PM"
+        },
+        {
+          "start": "12:30PM",
+          "end": "1:50PM"
+        },
+        {
+          "start": "2:00PM",
+          "end": "3:20PM"
+        }
+      ],
+      "Wednesday": [
+        {
+          "start": "9:30AM",
+          "end": "10:50AM"
+        },
+        {
+          "start": "11:00AM",
+          "end": "12:20PM"
+        },
+        {
+          "start": "12:30PM",
+          "end": "1:50PM"
+        }
+      ],
+      "Thursday": [
+        {
+          "start": "9:30AM",
+          "end": "10:50AM"
+        },
+        {
+          "start": "11:00AM",
+          "end": "12:20PM"
+        },
+        {
+          "start": "12:30PM",
+          "end": "1:50PM"
+        },
+        {
+          "start": "2:00PM",
+          "end": "3:20PM"
+        }
+      ],
+      "Friday": [
+        {
+          "start": "9:30AM",
+          "end": "10:50AM"
+        },
+        {
+          "start": "11:00AM",
+          "end": "12:20PM"
+        },
+        {
+          "start": "12:30PM",
+          "end": "1:50PM"
+        }
+      ]
+    }
   },
   "AH104": {
     "Campus": "Boca",
