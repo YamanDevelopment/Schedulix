@@ -4052,7 +4052,7 @@ Boca Raton BU410
   Friday
     9:30AM - 10:50AM
 
-Dania Beach - Sea-Tech ST233
+Dania Beach Sea-Tech ST233
   Tuesday
     10:00AM - 11:20AM  
     12:30PM - 1:50PM  
@@ -4067,7 +4067,7 @@ Dania Beach - Sea-Tech ST233
     2:00PM - 3:20PM  
     3:30PM - 4:50PM
 
-Dania Beach - Sea-Tech ST209
+Dania Beach Sea-Tech ST209
   Tuesday
     8:00AM - 9:20AM  
     11:00AM - 12:20PM  
