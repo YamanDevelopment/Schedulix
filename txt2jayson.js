@@ -16,7 +16,8 @@ function processAvailabilityFile(filePath) {
             currentCampus = line.split(' ')[0];
             currentRoom = line.split(' ').pop();
             const floor = parseInt(currentRoom.charAt(2), 10); // Assuming room format is like GS103
-            availability[currentRoom] = { campus: currentCampus, floor: floor, schedule: {} };
+            const building = currentRoom.slice(0, 2); // Assuming building prefix is the first two characters
+            availability[currentRoom] = { campus: currentCampus, building: building, floor: floor, schedule: {} };
         } else if (['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'].includes(line)) {
             currentDay = line;
             if (!availability[currentRoom].schedule[currentDay]) {
