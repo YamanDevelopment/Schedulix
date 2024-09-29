@@ -8,62 +8,36 @@ function parseTime(timeStr) {
     return new Date(2000, 0, 1, hours, minutes);
 }
 
-function getAvailableTimes(busyTimes, startTime, endTime, interval) {
-    const availableTimes = [];
-    let currentTime = new Date(startTime);
-    while (currentTime < endTime) {
-        const isAvailable = busyTimes.every(bt => {
-            const btStart = parseTime(bt[0]);
-            const btEnd = parseTime(bt[1]);
-            return currentTime < btStart || currentTime >= btEnd;
-        });
-        if (isAvailable) {
-            availableTimes.push(currentTime.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true }));
-        }
-        currentTime.setMinutes(currentTime.getMinutes() + interval);
-    }
-    return availableTimes;
-}
-
-function getFullDayAvailability() {
-    const times = [];
-    const startTime = new Date(2000, 0, 1, 8, 0);
-    const endTime = new Date(2000, 0, 1, 22, 0);
-    while (startTime < endTime) {
-        times.push(startTime.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true }));
-        startTime.setMinutes(startTime.getMinutes() + 30);
-    }
-    return times;
-}
 
 function processAvailabilityFile(filePath) {
     const fileContent = fs.readFileSync(filePath, 'utf8');
     const lines = fileContent.split('\n');
-    const availability = {};
+    const schedule = {};
     let currentRoom = null;
     let currentDay = null;
 
     lines.forEach(line => {
-        console.log(line)
         line = line.trim();
         if (!line) return;
 
         if (line.includes('Boca Raton') || line.includes('Jupiter')) {
+            console.log(line)
             currentRoom = line.split(' ').pop();
+            console.log("Current room being worked on: ", currentRoom)
             console.log(currentRoom)
-            availability[currentRoom] = {};
+            schedule[currentRoom] = {};
         } else if (['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday','Saturday','Sunday'].includes(line)) {
             currentDay = line;
-            if (!availability[currentRoom][currentDay]) {
-                availability[currentRoom][currentDay] = [];
+            if (!schedule[currentRoom][currentDay]) {
+                schedule[currentRoom][currentDay] = [];
             }
         } else if (line.includes(' - ')) {
             const [start, end] = line.split(' - ');
-            availability[currentRoom][currentDay].push([start.trim(), end.trim()]);
+            schedule[currentRoom][currentDay].push({start: start.trim(), end: end.trim()});
         }
     });
-
-    return availability;
+    console.log(schedule)
+    return schedule;
 }
 
 function updateRoomAvailability(jsonFilePath, availabilityFilePath, outputFilePath) {
@@ -76,20 +50,10 @@ function updateRoomAvailability(jsonFilePath, availabilityFilePath, outputFilePa
     // Update JSON data with availability information
     for (const [room, schedule] of Object.entries(availability)) {
         if (room in roomData) {
-            if (!roomData[room].Availability) {
-                roomData[room].Availability = {};
+            if (!roomData[room].schedule) {
+                roomData[room].schedule = availability[room];
             }
             console.log(room);
-            ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'].forEach(day => {
-                if (schedule[day] && schedule[day].length > 0) {
-                    const startOfDay = parseTime('8:00AM');
-                    const endOfDay = parseTime('10:00PM');
-                    roomData[room].Availability[day] = getAvailableTimes(schedule[day], startOfDay, endOfDay, 30);
-                } else {
-                    // If the day doesn't exist in the schedule or has no busy times, mark it as fully available
-                    roomData[room].Availability[day] = getFullDayAvailability();
-                }
-            });
         }
     }
 
@@ -99,8 +63,8 @@ function updateRoomAvailability(jsonFilePath, availabilityFilePath, outputFilePa
 }
 
 // Usage
-const jsonFilePath = '/home/amarnath/Projects/Schedulix/room_data.json';
-const availabilityFilePath = '/home/amarnath/Projects/Schedulix/OrganizedFAURoomInfoFall2024.txt';
-const outputFilePath = '/home/amarnath/Projects/Schedulix/updated_room_data.json';
+const jsonFilePath = 'C:/Users/pc/Schedulix/room_data.json';
+const availabilityFilePath = 'C:/Users/pc/Schedulix/OrganizedFAURoomInfoFall2024.txt';
+const outputFilePath = 'C:/Users/pc/Schedulix/updated_room_data.json';
 
 updateRoomAvailability(jsonFilePath, availabilityFilePath, outputFilePath);
