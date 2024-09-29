@@ -7,6 +7,7 @@
     "StudentCapacity": 29,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -18,6 +19,7 @@
     "StudentCapacity": 20,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -29,6 +31,7 @@
     "StudentCapacity": 23,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -116,6 +119,7 @@
     "StudentCapacity": 102,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -199,6 +203,7 @@
     "StudentCapacity": 18,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -210,6 +215,7 @@
     "StudentCapacity": 17,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -271,6 +277,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -374,6 +381,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -393,6 +401,7 @@
     "StudentCapacity": 22,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -454,6 +463,7 @@
     "StudentCapacity": 97,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -521,6 +531,7 @@
     "StudentCapacity": 115,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -620,6 +631,7 @@
     "StudentCapacity": 256,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -663,6 +675,7 @@
     "StudentCapacity": 137,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -754,6 +767,7 @@
     "StudentCapacity": 34,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -821,6 +835,7 @@
     "StudentCapacity": 38,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -912,6 +927,7 @@
     "StudentCapacity": 39,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -969,6 +985,7 @@
     "StudentCapacity": 50,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -1048,6 +1065,7 @@
     "StudentCapacity": 103,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -1179,6 +1197,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -1190,6 +1209,7 @@
     "StudentCapacity": 49,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -1285,6 +1305,7 @@
     "StudentCapacity": 36,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -1400,6 +1421,7 @@
     "StudentCapacity": 35,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -1531,6 +1553,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -1614,6 +1637,7 @@
     "StudentCapacity": 48,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -1701,6 +1725,7 @@
     "StudentCapacity": 27,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -1856,6 +1881,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -1919,6 +1945,7 @@
     "StudentCapacity": 22,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -1930,6 +1957,7 @@
     "StudentCapacity": 20,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -1941,6 +1969,7 @@
     "StudentCapacity": 115,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": true,
     "AudienceMicrophones": false,
     "AudienceCamera": true
   },
@@ -1952,6 +1981,7 @@
     "StudentCapacity": 82,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": true,
     "AudienceMicrophones": false,
     "AudienceCamera": true
   },
@@ -1963,6 +1993,7 @@
     "StudentCapacity": 80,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": true,
     "AudienceMicrophones": false,
     "AudienceCamera": true
   },
@@ -1974,6 +2005,7 @@
     "StudentCapacity": 42,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -2027,6 +2059,7 @@
     "StudentCapacity": 20,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": true,
     "schedule": {
@@ -2130,6 +2163,7 @@
     "StudentCapacity": 63,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -2167,6 +2201,7 @@
     "StudentCapacity": 30,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -2258,6 +2293,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": true,
     "schedule": {
@@ -2311,6 +2347,7 @@
     "StudentCapacity": 20,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -2344,6 +2381,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -2439,6 +2477,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -2522,6 +2561,7 @@
     "StudentCapacity": 80,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -2613,6 +2653,7 @@
     "StudentCapacity": 23,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -2684,6 +2725,7 @@
     "StudentCapacity": 288,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -2789,6 +2831,7 @@
     "StudentCapacity": 44,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -2800,6 +2843,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -2943,6 +2987,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -3066,6 +3111,7 @@
     "StudentCapacity": 23,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3127,6 +3173,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3172,6 +3219,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3235,6 +3283,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3326,6 +3375,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3429,6 +3479,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": true
   },
@@ -3440,6 +3491,7 @@
     "StudentCapacity": 37,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3495,6 +3547,7 @@
     "StudentCapacity": 22,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -3506,6 +3559,7 @@
     "StudentCapacity": 26,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3571,6 +3625,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3642,6 +3697,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3725,6 +3781,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3854,20 +3911,12 @@
           "end": "10:50"
         },
         {
-          "start": "Dania Beach",
-          "end": "Sea-Tech ST233"
-        },
-        {
           "start": "14:00",
           "end": "15:20"
         },
         {
           "start": "15:30",
           "end": "16:50"
-        },
-        {
-          "start": "Dania Beach",
-          "end": "Sea-Tech ST209"
         }
       ]
     }
@@ -3880,6 +3929,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -3937,6 +3987,7 @@
     "StudentCapacity": 22,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -3948,6 +3999,7 @@
     "StudentCapacity": 22,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -3959,6 +4011,7 @@
     "StudentCapacity": 30,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": true,
     "schedule": {
@@ -4074,6 +4127,7 @@
     "StudentCapacity": 12,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -4085,6 +4139,7 @@
     "StudentCapacity": 30,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -4156,6 +4211,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": true,
     "schedule": {
@@ -4239,6 +4295,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": true
   },
@@ -4250,6 +4307,7 @@
     "StudentCapacity": 52,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -4261,6 +4319,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -4272,6 +4331,7 @@
     "StudentCapacity": 6,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -4283,6 +4343,7 @@
     "StudentCapacity": 10,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -4294,6 +4355,7 @@
     "StudentCapacity": 6,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -4305,6 +4367,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": false,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -4316,6 +4379,7 @@
     "StudentCapacity": 70,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -4327,6 +4391,7 @@
     "StudentCapacity": 46,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -4374,6 +4439,7 @@
     "StudentCapacity": 46,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -4441,6 +4507,7 @@
     "StudentCapacity": 46,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -4452,6 +4519,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -4579,6 +4647,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -4742,6 +4811,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -4849,6 +4919,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -4964,6 +5035,7 @@
     "StudentCapacity": 26,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -5083,6 +5155,7 @@
     "StudentCapacity": 26,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -5226,6 +5299,7 @@
     "StudentCapacity": 26,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -5381,6 +5455,7 @@
     "StudentCapacity": 26,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -5524,6 +5599,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -5635,6 +5711,7 @@
     "StudentCapacity": 26,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -5730,6 +5807,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -5817,6 +5895,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -5900,6 +5979,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6015,6 +6095,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6130,6 +6211,7 @@
     "StudentCapacity": 19,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6161,6 +6243,7 @@
     "StudentCapacity": 18,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6216,6 +6299,7 @@
     "StudentCapacity": 15,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6235,6 +6319,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6314,6 +6399,7 @@
     "StudentCapacity": 38,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6409,6 +6495,7 @@
     "StudentCapacity": 37,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6524,6 +6611,7 @@
     "StudentCapacity": 37,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6591,6 +6679,7 @@
     "StudentCapacity": 44,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6652,6 +6741,7 @@
     "StudentCapacity": 41,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6731,6 +6821,7 @@
     "StudentCapacity": 41,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6750,6 +6841,7 @@
     "StudentCapacity": 138,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6849,6 +6941,7 @@
     "StudentCapacity": 36,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -6886,6 +6979,7 @@
     "StudentCapacity": 50,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -6989,6 +7083,7 @@
     "StudentCapacity": 46,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7038,6 +7133,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7075,6 +7171,7 @@
     "StudentCapacity": 43,
     "ZoomEnabled": false,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -7120,6 +7217,7 @@
     "StudentCapacity": 30,
     "ZoomEnabled": false,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7151,6 +7249,7 @@
     "StudentCapacity": 35,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7206,6 +7305,7 @@
     "StudentCapacity": 30,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7241,6 +7341,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7272,6 +7373,7 @@
     "StudentCapacity": 96,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": true,
     "schedule": {
@@ -7375,6 +7477,7 @@
     "StudentCapacity": 60,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -7386,6 +7489,7 @@
     "StudentCapacity": 60,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7509,6 +7613,7 @@
     "StudentCapacity": 34,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7576,6 +7681,7 @@
     "StudentCapacity": 20,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -7587,6 +7693,7 @@
     "StudentCapacity": 49,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7624,6 +7731,7 @@
     "StudentCapacity": 37,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7731,6 +7839,7 @@
     "StudentCapacity": 18,
     "ZoomEnabled": false,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": true
   },
@@ -7742,6 +7851,7 @@
     "StudentCapacity": 22,
     "ZoomEnabled": false,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": true
   },
@@ -7753,6 +7863,7 @@
     "StudentCapacity": 15,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -7764,6 +7875,7 @@
     "StudentCapacity": 15,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -7775,6 +7887,7 @@
     "StudentCapacity": 20,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7804,6 +7917,7 @@
     "StudentCapacity": 50,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7855,6 +7969,7 @@
     "StudentCapacity": 10,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -7866,6 +7981,7 @@
     "StudentCapacity": 19,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -7877,6 +7993,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -7888,6 +8005,7 @@
     "StudentCapacity": 27,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -7899,6 +8017,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -7976,6 +8095,7 @@
     "StudentCapacity": 30,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -8053,6 +8173,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -8122,6 +8243,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -8231,6 +8353,7 @@
     "StudentCapacity": 49,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -8370,6 +8493,7 @@
     "StudentCapacity": 33,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -8457,6 +8581,7 @@
     "StudentCapacity": 33,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -8518,6 +8643,7 @@
     "StudentCapacity": 46,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -8589,6 +8715,7 @@
     "StudentCapacity": 48,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -8708,6 +8835,7 @@
     "StudentCapacity": 30,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -8803,6 +8931,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -8910,6 +9039,7 @@
     "StudentCapacity": 51,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -8989,6 +9119,7 @@
     "StudentCapacity": 295,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -9280,6 +9411,7 @@
     "StudentCapacity": 149,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -9379,6 +9511,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -9414,6 +9547,7 @@
     "StudentCapacity": 65,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -9499,6 +9633,7 @@
     "StudentCapacity": 68,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -9568,6 +9703,7 @@
     "StudentCapacity": 60,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -9659,6 +9795,7 @@
     "StudentCapacity": 56,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -9750,6 +9887,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -9909,6 +10047,7 @@
     "StudentCapacity": 64,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -9984,6 +10123,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -10051,6 +10191,7 @@
     "StudentCapacity": 55,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -10150,6 +10291,7 @@
     "StudentCapacity": 64,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -10233,6 +10375,7 @@
     "StudentCapacity": 78,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -10328,6 +10471,7 @@
     "StudentCapacity": 62,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -10443,6 +10587,7 @@
     "StudentCapacity": 104,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -10564,6 +10709,7 @@
     "StudentCapacity": 130,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -10677,6 +10823,7 @@
     "StudentCapacity": 104,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -10772,6 +10919,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -10783,6 +10931,7 @@
     "StudentCapacity": 50,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -10876,6 +11025,7 @@
     "StudentCapacity": 43,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -10887,6 +11037,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -10898,6 +11049,7 @@
     "StudentCapacity": 47,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -10909,6 +11061,7 @@
     "StudentCapacity": 42,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -10920,6 +11073,7 @@
     "StudentCapacity": 59,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -10931,6 +11085,7 @@
     "StudentCapacity": 17,
     "ZoomEnabled": false,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": true
   },
@@ -10942,6 +11097,7 @@
     "StudentCapacity": 2280,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -10953,6 +11109,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -11010,6 +11167,7 @@
     "StudentCapacity": 27,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -11097,6 +11255,7 @@
     "StudentCapacity": 55,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -11156,6 +11315,7 @@
     "StudentCapacity": 39,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -11235,6 +11395,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -11246,6 +11407,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -11257,6 +11419,7 @@
     "StudentCapacity": 200,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -11368,6 +11531,7 @@
     "StudentCapacity": 54,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -11379,6 +11543,7 @@
     "StudentCapacity": 15,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -11390,6 +11555,7 @@
     "StudentCapacity": 20,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -11401,6 +11567,7 @@
     "StudentCapacity": 0,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -11412,6 +11579,7 @@
     "StudentCapacity": 42,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -11435,6 +11603,7 @@
     "StudentCapacity": 346,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -11558,6 +11727,7 @@
     "StudentCapacity": 84,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": true,
     "schedule": {
@@ -11589,6 +11759,7 @@
     "StudentCapacity": 80,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": true
   },
@@ -11600,6 +11771,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -11631,6 +11803,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -11666,6 +11839,7 @@
     "StudentCapacity": 83,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": true,
     "schedule": {
@@ -11685,6 +11859,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -11696,6 +11871,7 @@
     "StudentCapacity": 39,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -11707,6 +11883,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -11790,6 +11967,7 @@
     "StudentCapacity": 38,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": true,
     "schedule": {
@@ -11845,6 +12023,7 @@
     "StudentCapacity": 169,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -11944,6 +12123,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12023,6 +12203,7 @@
     "StudentCapacity": 49,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12102,6 +12283,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12177,6 +12359,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -12188,6 +12371,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -12199,6 +12383,7 @@
     "StudentCapacity": 50,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12292,6 +12477,7 @@
     "StudentCapacity": 36,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12391,6 +12577,7 @@
     "StudentCapacity": 44,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12470,6 +12657,7 @@
     "StudentCapacity": 36,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12563,6 +12751,7 @@
     "StudentCapacity": 12,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12600,6 +12789,7 @@
     "StudentCapacity": 7,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -12611,6 +12801,7 @@
     "StudentCapacity": 18,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12696,6 +12887,7 @@
     "StudentCapacity": 18,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12781,6 +12973,7 @@
     "StudentCapacity": 18,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12858,6 +13051,7 @@
     "StudentCapacity": 18,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -12927,6 +13121,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13010,6 +13205,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13081,6 +13277,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13162,6 +13359,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13227,6 +13425,7 @@
     "StudentCapacity": 16,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": true,
     "schedule": {
@@ -13314,6 +13513,7 @@
     "StudentCapacity": 60,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13409,6 +13609,7 @@
     "StudentCapacity": 41,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13434,6 +13635,7 @@
     "StudentCapacity": 46,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13459,6 +13661,7 @@
     "StudentCapacity": 18,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13538,6 +13741,7 @@
     "StudentCapacity": 25,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13611,6 +13815,7 @@
     "StudentCapacity": 26,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13714,6 +13919,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13861,6 +14067,7 @@
     "StudentCapacity": 34,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -13984,6 +14191,7 @@
     "StudentCapacity": 31,
     "ZoomEnabled": true,
     "VideoConf": true,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": true,
     "schedule": {
@@ -14025,6 +14233,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -14036,6 +14245,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14139,6 +14349,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14222,6 +14433,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14353,6 +14565,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14448,6 +14661,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14535,6 +14749,7 @@
     "StudentCapacity": 62,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14626,6 +14841,7 @@
     "StudentCapacity": 50,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14697,6 +14913,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14716,6 +14933,7 @@
     "StudentCapacity": 30,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14791,6 +15009,7 @@
     "StudentCapacity": 37,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14816,6 +15035,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14861,6 +15081,7 @@
     "StudentCapacity": 38,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -14872,6 +15093,7 @@
     "StudentCapacity": 46,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -14883,6 +15105,7 @@
     "StudentCapacity": 47,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14924,6 +15147,7 @@
     "StudentCapacity": 49,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -14975,6 +15199,7 @@
     "StudentCapacity": 50,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -15018,6 +15243,7 @@
     "StudentCapacity": 34,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -15059,6 +15285,7 @@
     "StudentCapacity": 15,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -15096,6 +15323,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -15151,6 +15379,7 @@
     "StudentCapacity": 21,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -15270,6 +15499,7 @@
     "StudentCapacity": 144,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15281,6 +15511,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -15292,6 +15523,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -15303,6 +15535,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -15314,6 +15547,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -15325,6 +15559,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -15336,6 +15571,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -15347,6 +15583,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -15366,6 +15603,7 @@
     "StudentCapacity": 45,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -15385,6 +15623,7 @@
     "StudentCapacity": 80,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -15396,6 +15635,7 @@
     "StudentCapacity": 200,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": true,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -15407,6 +15647,7 @@
     "StudentCapacity": 79,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15418,6 +15659,7 @@
     "StudentCapacity": 22,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15429,6 +15671,7 @@
     "StudentCapacity": 148,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15440,6 +15683,7 @@
     "StudentCapacity": 49,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15451,6 +15695,7 @@
     "StudentCapacity": 52,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15462,6 +15707,7 @@
     "StudentCapacity": 22,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15473,6 +15719,7 @@
     "StudentCapacity": 24,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15484,6 +15731,7 @@
     "StudentCapacity": 33,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15495,6 +15743,7 @@
     "StudentCapacity": 64,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15506,6 +15755,7 @@
     "StudentCapacity": 18,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15517,6 +15767,7 @@
     "StudentCapacity": 31,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15528,6 +15779,7 @@
     "StudentCapacity": 29,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15539,6 +15791,7 @@
     "StudentCapacity": 29,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15550,6 +15803,7 @@
     "StudentCapacity": 66,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15561,6 +15815,7 @@
     "StudentCapacity": 140,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15572,6 +15827,7 @@
     "StudentCapacity": 21,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15583,6 +15839,7 @@
     "StudentCapacity": 21,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15594,6 +15851,7 @@
     "StudentCapacity": 10,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15605,6 +15863,7 @@
     "StudentCapacity": 10,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15616,6 +15875,7 @@
     "StudentCapacity": 48,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -15687,6 +15947,7 @@
     "StudentCapacity": 75,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -15698,6 +15959,7 @@
     "StudentCapacity": 55,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false,
     "schedule": {
@@ -15813,6 +16075,7 @@
     "StudentCapacity": 50,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -15920,6 +16183,7 @@
     "StudentCapacity": 46,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -15999,6 +16263,7 @@
     "StudentCapacity": 55,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16090,6 +16355,7 @@
     "StudentCapacity": 246,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16205,6 +16471,7 @@
     "StudentCapacity": 80,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16300,6 +16567,7 @@
     "StudentCapacity": 30,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16357,6 +16625,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16422,6 +16691,7 @@
     "StudentCapacity": 20,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16447,6 +16717,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16466,6 +16737,7 @@
     "StudentCapacity": 40,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16501,6 +16773,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16546,6 +16819,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16669,6 +16943,7 @@
     "StudentCapacity": 18,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16708,6 +16983,7 @@
     "StudentCapacity": 30,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16811,6 +17087,7 @@
     "StudentCapacity": 28,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -16910,6 +17187,7 @@
     "StudentCapacity": 12,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -16921,6 +17199,7 @@
     "StudentCapacity": 36,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": true,
     "AudienceCamera": false
   },
@@ -16932,6 +17211,7 @@
     "StudentCapacity": 17,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -16943,6 +17223,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -16954,6 +17235,7 @@
     "StudentCapacity": 32,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -16965,6 +17247,7 @@
     "StudentCapacity": 16,
     "ZoomEnabled": false,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false
   },
@@ -16976,6 +17259,7 @@
     "StudentCapacity": 23,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -17019,6 +17303,7 @@
     "StudentCapacity": 11,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -17070,6 +17355,7 @@
     "StudentCapacity": 29,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -17137,6 +17423,7 @@
     "StudentCapacity": 10,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -17190,6 +17477,7 @@
     "StudentCapacity": 12,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
@@ -17243,6 +17531,7 @@
     "StudentCapacity": 20,
     "ZoomEnabled": true,
     "VideoConf": false,
+    "Mediasite": false,
     "AudienceMicrophones": false,
     "AudienceCamera": false,
     "schedule": {
